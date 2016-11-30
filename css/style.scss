@@ -1,0 +1,24 @@
+@import "defaults";
+@import 'graphs';
+@import 'susy';
+
+body {
+  @include container(90em);
+}
+
+// ALL charts must have a span for interactivity to work
+#chart1 {
+  @include span(8 of 8 last);
+}
+
+// #chart2 {
+//   @include span(4 of 8);
+// }
+//
+// #chart3 {
+//   @include span(4 of 8 last);
+// }
+//
+// #chart4 {
+//   @include span(8 of 8 last);
+// }

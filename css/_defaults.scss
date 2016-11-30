@@ -1,0 +1,17 @@
+$mainColor: rgb(84, 84, 84);
+$font: Helvetica;
+
+html {
+  color: $mainColor;
+  font-family: $font;
+  font-size: 1em;
+  line-height: 1.4;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: .5em 0;
+}

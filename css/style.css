@@ -1,0 +1,49 @@
+html {
+  color: #545454;
+  font-family: Helvetica;
+  font-size: 1em;
+  line-height: 1.4; }
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: .5em 0; }
+
+.c3-axis-x-label, .c3-axis-y-label {
+  font-size: 13px; }
+
+.c3-title {
+  font-size: 20px; }
+
+body {
+  max-width: 90em;
+  margin-left: auto;
+  margin-right: auto; }
+  body:after {
+    content: " ";
+    display: block;
+    clear: both; }
+
+#chart1 {
+  width: 100%;
+  float: right;
+  margin-right: 0; }
+
+#chart2 {
+  width: 48.71795%;
+  float: left;
+  margin-right: 2.5641%; }
+
+#chart3 {
+  width: 48.71795%;
+  float: right;
+  margin-right: 0; }
+
+#chart4 {
+  width: 100%;
+  float: right;
+  margin-right: 0; }
+
+/*# sourceMappingURL=style.css.map */

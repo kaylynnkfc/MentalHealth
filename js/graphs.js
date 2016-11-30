@@ -2,7 +2,7 @@ var benefits = getBenefits();
 
 var chart1 = c3.generate({
     title: {
-      text: 'Mental Health'
+      text: 'Company Insurance Covers Mental Health Benefits'
     },
     data: {
         json: benefits,
@@ -18,14 +18,14 @@ var chart1 = c3.generate({
     axis: {
       y: {
         label: {
-          text: "% Unmarried",
+          text: "Count",
           position: "outer-middle"
         }
       },
       x: {
         type: 'category',
         label: {
-          text: "Year",
+          text: "Category",
           position: 'outer-center'
         }
       }

@@ -16,10 +16,20 @@ function getData() {
     {"x":"Not eligible for coverage / N/A", "total":0}
   ];
 
+  var productivity = [
+    {"x": "Yes", "total" : 0},
+    {"x" : "No", "total":  0},
+    {"x": "Unsure", "total" : 0},
+    {"x":"Not applicable to me", "total":0}
+  ];
+
+
+
   for (var i = 0; i<data.length; i++) {
 
     var leaveVal = data[i]['MentalLeave'];
     var benefitsVal = data[i]['Benefits'];
+    var prodVal = data[i]['Prod'];
 
     if (leaveVal != "") {
       for (var j = 0; j < leave.length; j++) {
@@ -36,7 +46,16 @@ function getData() {
         }
       }
     }
+
+    if (prodVal != "") {
+      for (var j = 0; j < productivity.length; j++) {
+        if (productivity[j]["x"] == prodVal) {
+          productivity[j]["total"]++;
+        }
+      }
+    }
+
   }
-  
-  return [benefits, leave];
+
+  return [benefits, leave, productivity];
 }

@@ -1,4 +1,13 @@
-function getBenefits() {
+function getData() {
+
+  var leave = [
+    {"x" : "Very easy", "total":  0},
+    {"x" : "Somewhat easy", "total" : 0},
+    {"x" : "Neither easy nor difficult", "total":0},
+    {"x" : "Somewhat difficult", "total":0},
+    {"x" : "Very difficult", "total" : 0},
+    {"x" : "I don't know", "total":0}
+  ];
 
   var benefits = [
     {"x": "Yes", "total" : 0},
@@ -9,16 +18,25 @@ function getBenefits() {
 
   for (var i = 0; i<data.length; i++) {
 
-    var val = data[i]['Benefits'];
+    var leaveVal = data[i]['MentalLeave'];
+    var benefitsVal = data[i]['Benefits'];
 
-    if (val != "") {
-      for (var j = 0; j < 4; j++) {
-        if (benefits[j]["x"] == val) {
+    if (leaveVal != "") {
+      for (var j = 0; j < leave.length; j++) {
+        if (leave[j]["x"] == leaveVal) {
+          leave[j]["total"]++;
+        }
+      }
+    }
+
+    if (benefitsVal != "") {
+      for (var j = 0; j < benefits.length; j++) {
+        if (benefits[j]["x"] == benefitsVal) {
           benefits[j]["total"]++;
         }
       }
     }
   }
-
-  return benefits;
+  
+  return [benefits, leave];
 }

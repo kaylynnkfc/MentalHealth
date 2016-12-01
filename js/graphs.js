@@ -1,11 +1,12 @@
-var benefits = getBenefits();
+//data[0] = benefits, data[1] = leave
+var data = getData();
 
 var chart1 = c3.generate({
     title: {
       text: 'Company Insurance Covers Mental Health Benefits'
     },
     data: {
-        json: benefits,
+        json: data[1],
         type: 'bar',
         keys: {
           x: 'x',

@@ -3,22 +3,26 @@
 @import 'susy';
 
 body {
-  @include container(90em);
+  @include container(80em);
+}
+
+h1 {
+  padding-left: 15px;
 }
 
 // ALL charts must have a span for interactivity to work
-#chart1 {
+#benefits {
   @include span(8 of 8 last);
 }
 
-// #chart2 {
-//   @include span(4 of 8);
-// }
-//
-// #chart3 {
-//   @include span(4 of 8 last);
-// }
-//
+#leave {
+  @include span(4 of 8);
+}
+
+#productivity {
+  @include span(4 of 8 last);
+}
+
 // #chart4 {
 //   @include span(8 of 8 last);
 // }

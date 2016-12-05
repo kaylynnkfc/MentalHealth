@@ -11,14 +11,8 @@ hr {
   border-top: 1px solid #ccc;
   margin: .5em 0; }
 
-.c3-axis-x-label, .c3-axis-y-label {
-  font-size: 13px; }
-
-.c3-title {
-  font-size: 20px; }
-
 body {
-  max-width: 90em;
+  max-width: 80em;
   margin-left: auto;
   margin-right: auto; }
   body:after {
@@ -26,23 +20,21 @@ body {
     display: block;
     clear: both; }
 
-#chart1 {
+h1 {
+  padding-left: 15px; }
+
+#benefits {
   width: 100%;
   float: right;
   margin-right: 0; }
 
-#chart2 {
+#leave {
   width: 48.71795%;
   float: left;
   margin-right: 2.5641%; }
 
-#chart3 {
+#productivity {
   width: 48.71795%;
-  float: right;
-  margin-right: 0; }
-
-#chart4 {
-  width: 100%;
   float: right;
   margin-right: 0; }
 

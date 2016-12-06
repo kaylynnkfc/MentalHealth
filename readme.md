@@ -1,6 +1,18 @@
 # About
 
-This is the final project for SDS 293. It is an analysis using Machine Learning of a dataset on mental health, specifically in tech.
+This is the final project for SDS 136 and 293. It is a visualization project followed by machine learning analysis of a dataset on mental health, specifically in tech.
+
+Available here: https://silentttone.github.io/MentalHealth/
+
+Note: Project will not be finalized until Dec. 14th.
+
+
+## Demo
+In progress screenshot:
+
+![img]
+[img]: /images/screenshot.png
+
 
 ## Data
 

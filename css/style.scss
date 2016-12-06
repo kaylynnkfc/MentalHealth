@@ -1,13 +1,21 @@
 @import "defaults";
-@import 'graphs';
+// @import 'graphs';
 @import 'susy';
 
 body {
-  @include container(80em);
+  @include container(75em);
 }
 
-h1 {
-  padding-left: 15px;
+#graphs {
+  @include span (1 of 1 last);
+}
+
+#prevalence, #companies, #factors {
+  @include span (1 of 1 last);
+}
+
+#references {
+  @include span (1 of 1 last);
 }
 
 // ALL charts must have a span for interactivity to work

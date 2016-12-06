@@ -2,35 +2,36 @@
 // @import 'graphs';
 @import 'susy';
 
+// Susy setup
 body {
-  @include container(75em);
+  @include container(65em);
 }
 
-#graphs {
+#prevalence, #companies, #factors, #references,#graphs {
   @include span (1 of 1 last);
 }
 
-#prevalence, #companies, #factors {
-  @include span (1 of 1 last);
+// Assorted styling
+.info {
+  padding: 10px;
 }
 
-#references {
-  @include span (1 of 1 last);
-}
-
-// ALL charts must have a span for interactivity to work
-#benefits {
-  @include span(8 of 8 last);
-}
-
-#leave {
-  @include span(4 of 8);
+// Prevalence section
+#disorders {
+  @include span (4 of 8);
 }
 
 #productivity {
   @include span(4 of 8 last);
 }
 
-// #chart4 {
-//   @include span(8 of 8 last);
-// }
+// Company section
+#benefits {
+  @include span(4 of 8);
+}
+
+#leave {
+  @include span(4 of 8 last);
+}
+
+// Results section

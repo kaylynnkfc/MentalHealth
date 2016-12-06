@@ -23,6 +23,11 @@ function getData() {
     {"x":"Not applicable to me", "total":0}
   ];
 
+  var currentDisorder = [
+    {"x": "Yes", "total" : 0},
+    {"x": "No", "total" : 0},
+    {"x": "Maybe", "total" : 0}
+  ]
 
 
   for (var i = 0; i<data.length; i++) {
@@ -30,6 +35,7 @@ function getData() {
     var leaveVal = data[i]['MentalLeave'];
     var benefitsVal = data[i]['Benefits'];
     var prodVal = data[i]['Prod'];
+    var disorderVal = data[i]['CurMental'];
 
     if (leaveVal != "") {
       for (var j = 0; j < leave.length; j++) {
@@ -55,7 +61,15 @@ function getData() {
       }
     }
 
+    if (disorderVal != "") {
+      for (var j = 0; j < currentDisorder.length; j++) {
+        if (currentDisorder[j]["x"] == disorderVal) {
+          currentDisorder[j]["total"]++;
+        }
+      }
+    }
+
   }
 
-  return [benefits, leave, productivity];
+  return [benefits, leave, productivity, currentDisorder];
 }

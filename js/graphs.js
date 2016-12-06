@@ -1,4 +1,4 @@
-//data[0] = benefits, data[1] = leave, data[2] = productivity
+//data[0] = benefits, data[1] = leave, data[2] = productivity, data[3] = currentDisorder
 var parsedData = getData();
 
 var benefits = c3.generate({
@@ -100,4 +100,37 @@ var productivity = c3.generate({
       }
     },
     bindto: "#productivity"
+});
+
+var currentDisorder = c3.generate({
+    title: {
+      text: 'Currently Have a Disorder'
+    },
+    data: {
+        json: parsedData[3],
+        type: 'bar',
+        keys: {
+          x: 'x',
+          value: ['total']
+        }
+    },
+    legend: {
+      position: 'right',
+      show: false
+    },
+    color: {
+      pattern: ['rgb(255, 157, 9)']
+    },
+    axis: {
+      y: {
+        label: {
+          text: "Count",
+          position: "outer-middle"
+        }
+      },
+      x: {
+        type: 'category'
+      }
+    },
+    bindto: "#disorders"
 });

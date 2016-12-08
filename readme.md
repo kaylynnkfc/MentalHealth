@@ -6,6 +6,11 @@ Available here: https://silentttone.github.io/MentalHealth/
 
 Note: Project will not be finalized until Dec. 14th.
 
+## Analysis
+
+The analysis section of the project is for SDS 293, Machine Learning. There is a
+jupyter notebook in the analysis folder, as well as a summary of the results (in
+progress) on the website. 
 
 ## Demo
 In progress screenshot:

@@ -7,9 +7,19 @@ body {
   @include container(65em);
 }
 
-#prevalence, #companies, #factors, #references,#graphs {
+#prevalence, #companies, #factors, #graphs {
   @include span (1 of 1 last);
 }
+
+#references, #data {
+  @include span (2 of 4);
+}
+
+#acknowledgements, #results {
+  @include span (2 of 4 last);
+}
+
+
 
 // Assorted styling
 .info {

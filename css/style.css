@@ -20,8 +20,18 @@ body {
     display: block;
     clear: both; }
 
-#prevalence, #companies, #factors, #references, #graphs {
+#prevalence, #companies, #factors, #graphs {
   width: 100%;
+  float: right;
+  margin-right: 0; }
+
+#references, #data {
+  width: 47.36842%;
+  float: left;
+  margin-right: 5.26316%; }
+
+#acknowledgements, #results {
+  width: 47.36842%;
   float: right;
   margin-right: 0; }
 

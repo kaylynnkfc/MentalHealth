@@ -20,7 +20,7 @@ body {
     display: block;
     clear: both; }
 
-#prevalence, #companies, #factors, #graphs {
+#prevalence, #companies, #factors, #graphs, #introML {
   width: 100%;
   float: right;
   margin-right: 0; }

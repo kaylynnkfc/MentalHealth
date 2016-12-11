@@ -7,7 +7,7 @@ body {
   @include container(65em);
 }
 
-#prevalence, #companies, #factors, #graphs {
+#prevalence, #companies, #factors, #graphs, #introML {
   @include span (1 of 1 last);
 }
 

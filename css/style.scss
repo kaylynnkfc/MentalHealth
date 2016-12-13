@@ -40,8 +40,12 @@ body {
   @include span(4 of 8);
 }
 
-#leave {
+#response {
   @include span(4 of 8 last);
 }
 
+#leave {
+  padding: 25px;
+  @include span(8 of 8 last);
+}
 // Results section

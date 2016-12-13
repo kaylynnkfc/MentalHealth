@@ -1,4 +1,4 @@
-//data[0] = benefits, data[1] = leave, data[2] = productivity, data[3] = currentDisorder
+//data[0] = benefits, data[1] = leave, data[2] = productivity, data[3] = currentDisorder, data[4] = negResponse
 var parsedData = getData();
 
 var benefits = c3.generate({
@@ -6,8 +6,13 @@ var benefits = c3.generate({
       text: 'Company Insurance Covers Mental Health Benefits'
     },
     data: {
-        json: parsedData[0],
-        type: 'bar',
+        columns: [
+            ['Yes', 531],
+            ['No', 213],
+            ['I don\'t know', 319],
+            ['Not Eligible / N/A', 83]
+        ],
+        type: 'pie',
         keys: {
           x: 'x',
           value: ['total']
@@ -15,10 +20,10 @@ var benefits = c3.generate({
     },
     legend: {
       position: 'right',
-      show: false
+      show: true
     },
     color: {
-      pattern: ['rgb(63, 188, 210)']
+      pattern: ['rgb(63, 188, 210)', 'rgb(109, 236, 198)', 'rgb(135, 92, 185)', 'rgb(7, 77, 61)']
     },
     axis: {
       y: {
@@ -52,7 +57,7 @@ var leave = c3.generate({
       show: false
     },
     color: {
-      pattern: ['rgb(166, 44, 161)']
+      pattern: ['rgb(105, 0, 100)']
     },
     axis: {
       y: {
@@ -86,7 +91,7 @@ var productivity = c3.generate({
       show: false
     },
     color: {
-      pattern: ['rgb(215, 55, 13)']
+      pattern: ['rgb(67, 127, 190)']
     },
     axis: {
       y: {
@@ -119,7 +124,7 @@ var currentDisorder = c3.generate({
       show: false
     },
     color: {
-      pattern: ['rgb(255, 157, 9)']
+      pattern: ['rgb(133, 11, 62)']
     },
     axis: {
       y: {
@@ -133,4 +138,38 @@ var currentDisorder = c3.generate({
       }
     },
     bindto: "#disorders"
+});
+
+
+var negResponse = c3.generate({
+    title: {
+      text: 'Observed or Experienced Negative Response to a Mental Issue'
+    },
+    data: {
+        json: parsedData[4],
+        type: 'bar',
+        keys: {
+          x: 'x',
+          value: ['total']
+        }
+    },
+    legend: {
+      position: 'right',
+      show: false
+    },
+    color: {
+      pattern: ['rgb(11, 133, 56)']
+    },
+    axis: {
+      y: {
+        label: {
+          text: "Count",
+          position: "outer-middle"
+        }
+      },
+      x: {
+        type: 'category'
+      }
+    },
+    bindto: "#response"
 });

@@ -29,6 +29,14 @@ function getData() {
     {"x": "Maybe", "total" : 0}
   ]
 
+  var negResponse = [
+    {"x": "No", "total" : 0},
+    {"x": "Maybe\/Not sure", "total" : 0},
+    {"x": "Yes, I observed", "total" : 0},
+    {"x": "Yes, I experienced", "total" : 0},
+    {"x": "N/A", "total" : 0}
+  ]
+
 
   for (var i = 0; i<data.length; i++) {
 
@@ -36,6 +44,7 @@ function getData() {
     var benefitsVal = data[i]['Benefits'];
     var prodVal = data[i]['Prod'];
     var disorderVal = data[i]['CurMental'];
+    var responseVal = data[i]['NegResponse'];
 
     if (leaveVal != "") {
       for (var j = 0; j < leave.length; j++) {
@@ -69,7 +78,18 @@ function getData() {
       }
     }
 
+    if (responseVal != "") {
+      if (responseVal == "Maybe/Not sure") {
+        console.log(responseVal);
+      }
+      for (var j = 0; j < negResponse.length; j++) {
+        if (negResponse[j]["x"] == responseVal) {
+          negResponse[j]["total"]++;
+        }
+      }
+    }
+
   }
 
-  return [benefits, leave, productivity, currentDisorder];
+  return [benefits, leave, productivity, currentDisorder, negResponse];
 }

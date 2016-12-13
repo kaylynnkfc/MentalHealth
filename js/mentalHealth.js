@@ -28,6 +28,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -43,7 +44,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -74,6 +76,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -89,7 +92,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -120,6 +124,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -135,7 +140,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -166,6 +172,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -181,7 +188,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -212,6 +220,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Stress Response Syndromes",
@@ -227,7 +236,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Executive Leadership|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -258,6 +268,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Stress Response Syndromes|Substance Use Disorder",
@@ -273,7 +284,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -304,6 +316,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -319,7 +332,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -350,6 +364,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Substance Use Disorder",
@@ -365,7 +380,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Virginia",
    "Position": "Dev Evangelist/Advocate|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -396,6 +412,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -411,7 +428,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Support|Back-end Developer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -442,6 +460,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -457,7 +476,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Kentucky",
    "Position": "One-person shop|Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -488,6 +508,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -503,7 +524,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -534,6 +556,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -549,7 +572,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -580,6 +604,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -595,7 +620,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New Jersey",
    "Position": "Supervisor/Team Lead|Dev Evangelist/Advocate|Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -626,6 +652,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -641,7 +668,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -672,6 +700,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Obsessive-Compulsive Disorder",
@@ -687,7 +716,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Georgia",
    "Position": "Designer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -718,6 +748,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -733,7 +764,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Other|Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -764,6 +796,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)|Obsessive-Compulsive Disorder",
@@ -779,7 +812,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -810,6 +844,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -825,7 +860,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -856,6 +892,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Attention Deficit Hyperactivity Disorder",
@@ -871,7 +908,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -902,6 +940,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -917,7 +956,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -948,6 +988,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -963,7 +1004,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -994,6 +1036,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -1009,7 +1052,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -1040,6 +1084,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -1055,7 +1100,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -1086,6 +1132,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -1101,7 +1148,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -1132,6 +1180,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -1147,7 +1196,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -1178,6 +1228,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -1193,7 +1244,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Support|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -1224,6 +1276,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -1239,7 +1292,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -1270,6 +1324,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -1285,7 +1340,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -1316,6 +1372,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -1331,7 +1388,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -1362,6 +1420,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -1377,7 +1436,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Other|Supervisor/Team Lead|Support|Back-end Developer|Designer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -1408,6 +1468,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -1423,7 +1484,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -1454,6 +1516,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Substance Use Disorder|Addictive Disorder",
@@ -1469,7 +1532,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -1500,6 +1564,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -1515,7 +1580,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "One-person shop|Front-end Developer|Back-end Developer|Dev Evangelist/Advocate|Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -1546,6 +1612,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -1561,7 +1628,8 @@ var data = [
    "CountryWork": "Czech Republic",
    "StateWork": "",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -1592,6 +1660,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)",
@@ -1607,7 +1676,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -1638,6 +1708,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -1653,7 +1724,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Executive Leadership|Front-end Developer|Back-end Developer|Sales|Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -1684,6 +1756,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -1699,7 +1772,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -1730,6 +1804,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -1745,7 +1820,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -1776,6 +1852,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -1791,7 +1868,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -1822,6 +1900,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -1837,7 +1916,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Support|Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -1868,6 +1948,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)",
@@ -1883,7 +1964,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Georgia",
    "Position": "One-person shop|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -1914,6 +1996,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -1929,7 +2012,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -1960,6 +2044,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -1975,7 +2060,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -2006,6 +2092,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -2021,7 +2108,8 @@ var data = [
    "CountryWork": "Lithuania",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -2052,6 +2140,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -2067,7 +2156,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Georgia",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -2098,6 +2188,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)",
@@ -2113,7 +2204,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Kentucky",
    "Position": "Supervisor/Team Lead|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -2144,6 +2236,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Substance Use Disorder|Addictive Disorder",
@@ -2159,7 +2252,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -2190,6 +2284,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -2205,7 +2300,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Virginia",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -2236,6 +2332,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -2251,7 +2348,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -2282,6 +2380,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Attention Deficit Hyperactivity Disorder",
@@ -2297,7 +2396,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -2328,6 +2428,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -2343,7 +2444,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -2374,6 +2476,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -2389,7 +2492,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Front-end Developer|Back-end Developer|Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -2420,6 +2524,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -2435,7 +2540,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Back-end Developer|Front-end Developer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -2466,6 +2572,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -2481,7 +2588,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -2512,6 +2620,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -2527,7 +2636,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -2558,6 +2668,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -2573,7 +2684,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -2604,6 +2716,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -2619,7 +2732,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -2650,6 +2764,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -2665,7 +2780,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -2696,6 +2812,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -2711,7 +2828,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Dakota",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -2742,6 +2860,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -2757,7 +2876,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -2788,6 +2908,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -2803,7 +2924,8 @@ var data = [
    "CountryWork": "France",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -2834,6 +2956,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -2849,7 +2972,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -2880,6 +3004,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -2895,7 +3020,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -2926,6 +3052,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -2941,7 +3068,8 @@ var data = [
    "CountryWork": "Venezuela",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -2972,6 +3100,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -2987,7 +3116,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -3018,6 +3148,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -3033,7 +3164,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Back-end Developer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -3064,6 +3196,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -3079,7 +3212,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -3110,6 +3244,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Post-traumatic Stress Disorder",
@@ -3125,7 +3260,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -3156,6 +3292,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -3171,7 +3308,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -3202,6 +3340,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -3217,7 +3356,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -3248,6 +3388,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -3263,7 +3404,8 @@ var data = [
    "CountryWork": "Poland",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -3294,6 +3436,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -3309,7 +3452,8 @@ var data = [
    "CountryWork": "Belgium",
    "StateWork": "",
    "Position": "Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -3340,6 +3484,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -3355,7 +3500,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Executive Leadership|Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -3386,6 +3532,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -3401,7 +3548,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -3432,6 +3580,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -3447,7 +3596,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -3478,6 +3628,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -3493,7 +3644,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -3524,6 +3676,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Personality Disorder (Borderline, Antisocial, Paranoid, etc)",
@@ -3539,7 +3692,8 @@ var data = [
    "CountryWork": "France",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -3570,6 +3724,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -3585,7 +3740,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -3616,6 +3772,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -3631,7 +3788,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "District of Columbia",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -3662,6 +3820,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -3677,7 +3836,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Supervisor/Team Lead|Dev Evangelist/Advocate|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -3708,6 +3868,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -3723,7 +3884,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -3754,6 +3916,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)",
@@ -3769,7 +3932,8 @@ var data = [
    "CountryWork": "Brazil",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -3800,6 +3964,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -3815,7 +3980,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -3846,6 +4012,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -3861,7 +4028,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Dev Evangelist/Advocate|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -3892,6 +4060,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)",
@@ -3907,7 +4076,8 @@ var data = [
    "CountryWork": "France",
    "StateWork": "",
    "Position": "One-person shop|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -3938,6 +4108,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -3953,7 +4124,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -3984,6 +4156,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -3999,7 +4172,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Back-end Developer|Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4030,6 +4204,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -4045,7 +4220,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -4076,6 +4252,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -4091,7 +4268,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Front-end Developer|Back-end Developer|Sales|Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4122,6 +4300,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -4137,7 +4316,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4168,6 +4348,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -4183,7 +4364,8 @@ var data = [
    "CountryWork": "Brazil",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4214,6 +4396,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -4229,7 +4412,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4260,6 +4444,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Substance Use Disorder",
@@ -4275,7 +4460,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4306,6 +4492,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -4321,7 +4508,8 @@ var data = [
    "CountryWork": "Brazil",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4352,6 +4540,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -4367,7 +4556,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Dakota",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4398,6 +4588,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Attention Deficit Hyperactivity Disorder",
@@ -4413,7 +4604,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4444,6 +4636,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -4459,7 +4652,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Vermont",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4490,6 +4684,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -4505,7 +4700,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -4536,6 +4732,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)",
@@ -4551,7 +4748,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "One-person shop|Back-end Developer|Sales|Support|DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead|Executive Leadership|Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4582,6 +4780,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)|Obsessive-Compulsive Disorder",
@@ -4597,7 +4796,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4628,6 +4828,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -4643,7 +4844,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4674,6 +4876,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder|Pervasive Developmental Disorder (Not Otherwise Specified)",
@@ -4689,7 +4892,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4720,6 +4924,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -4735,7 +4940,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4766,6 +4972,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -4781,7 +4988,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4812,6 +5020,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -4827,7 +5036,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -4858,6 +5068,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -4873,7 +5084,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "One-person shop|Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4904,6 +5116,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -4919,7 +5132,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4950,6 +5164,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Seasonal Affective Disorder",
@@ -4965,7 +5180,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -4996,6 +5212,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -5011,7 +5228,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -5042,6 +5260,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -5057,7 +5276,8 @@ var data = [
    "CountryWork": "Denmark",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|Executive Leadership",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -5088,6 +5308,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -5103,7 +5324,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Missouri",
    "Position": "Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -5134,6 +5356,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -5149,7 +5372,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -5180,6 +5404,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -5195,7 +5420,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Kansas",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -5226,6 +5452,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -5241,7 +5468,8 @@ var data = [
    "CountryWork": "Czech Republic",
    "StateWork": "",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -5272,6 +5500,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Burn out",
@@ -5287,7 +5516,8 @@ var data = [
    "CountryWork": "Belgium",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -5318,6 +5548,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -5333,7 +5564,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Executive Leadership|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -5364,6 +5596,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Obsessive-Compulsive Disorder",
@@ -5379,7 +5612,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -5410,6 +5644,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -5425,7 +5660,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -5456,6 +5692,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -5471,7 +5708,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "District of Columbia",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -5502,6 +5740,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -5517,7 +5756,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -5548,6 +5788,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -5563,7 +5804,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -5594,6 +5836,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -5609,7 +5852,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -5640,6 +5884,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "PDD-NOS",
@@ -5655,7 +5900,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "One-person shop|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -5686,6 +5932,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Substance Use Disorder",
@@ -5701,7 +5948,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -5732,6 +5980,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -5747,7 +5996,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "One-person shop|Designer|Front-end Developer|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -5778,6 +6028,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -5793,7 +6044,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Nevada",
    "Position": "One-person shop|Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -5824,6 +6076,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -5839,7 +6092,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -5870,6 +6124,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -5885,7 +6140,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Other|Executive Leadership|Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -5916,6 +6172,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -5931,7 +6188,8 @@ var data = [
    "CountryWork": "France",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -5962,6 +6220,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -5977,7 +6236,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6008,6 +6268,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -6023,7 +6284,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Georgia",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6054,6 +6316,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -6069,7 +6332,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6100,6 +6364,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Post-traumatic Stress Disorder|Stress Response Syndromes",
@@ -6115,7 +6380,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Utah",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6146,6 +6412,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder",
@@ -6161,7 +6428,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6192,6 +6460,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -6207,7 +6476,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Connecticut",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6238,6 +6508,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -6253,7 +6524,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6284,6 +6556,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -6299,7 +6572,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Virginia",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6330,6 +6604,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -6345,7 +6620,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6376,6 +6652,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -6391,7 +6668,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6422,6 +6700,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -6437,7 +6716,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6468,6 +6748,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Post-traumatic Stress Disorder|Dissociative Disorder",
@@ -6483,7 +6764,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Executive Leadership|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6514,6 +6796,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -6529,7 +6812,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Supervisor/Team Lead|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6560,6 +6844,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -6575,7 +6860,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Maryland",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6606,6 +6892,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -6621,7 +6908,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6652,6 +6940,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -6667,7 +6956,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -6698,6 +6988,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -6713,7 +7004,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6744,6 +7036,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -6759,7 +7052,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Other|Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6790,6 +7084,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -6805,7 +7100,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Executive Leadership|DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6836,6 +7132,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -6851,7 +7148,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6882,6 +7180,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -6897,7 +7196,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -6928,6 +7228,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -6943,7 +7244,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -6974,6 +7276,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -6989,7 +7292,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "One-person shop|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -7020,6 +7324,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -7035,7 +7340,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7066,6 +7372,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -7081,7 +7388,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -7112,6 +7420,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -7127,7 +7436,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Other|Supervisor/Team Lead|Back-end Developer|One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7158,6 +7468,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -7173,7 +7484,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7204,6 +7516,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -7219,7 +7532,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7250,6 +7564,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Substance Use Disorder",
@@ -7265,7 +7580,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Dev Evangelist/Advocate|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7296,6 +7612,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -7311,7 +7628,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7342,6 +7660,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -7357,7 +7676,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7388,6 +7708,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Stress Response Syndromes",
@@ -7403,7 +7724,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7434,6 +7756,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -7449,7 +7772,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7480,6 +7804,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -7495,7 +7820,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7526,6 +7852,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -7541,7 +7868,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "HR",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7572,6 +7900,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "",
@@ -7587,7 +7916,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7618,6 +7948,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -7633,7 +7964,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7664,6 +7996,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -7679,7 +8012,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7710,6 +8044,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -7725,7 +8060,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -7756,6 +8092,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -7771,7 +8108,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Support|Back-end Developer|One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7802,6 +8140,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -7817,7 +8156,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7848,6 +8188,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -7863,7 +8204,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7894,6 +8236,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -7909,7 +8252,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7940,6 +8284,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -7955,7 +8300,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -7986,6 +8332,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -8001,7 +8348,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8032,6 +8380,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Obsessive-Compulsive Disorder|Stress Response Syndromes|Dissociative Disorder|Substance Use Disorder",
@@ -8047,7 +8396,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8078,6 +8428,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -8093,7 +8444,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8124,6 +8476,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -8139,7 +8492,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8170,6 +8524,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -8185,7 +8540,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8216,6 +8572,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -8231,7 +8588,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8262,6 +8620,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -8277,7 +8636,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Dev Evangelist/Advocate|Back-end Developer|Support",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8308,6 +8668,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -8323,7 +8684,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8354,6 +8716,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -8369,7 +8732,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8400,6 +8764,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -8415,7 +8780,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Executive Leadership|DevOps/SysAdmin|Back-end Developer|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8446,6 +8812,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -8461,7 +8828,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8492,6 +8860,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Personality Disorder (Borderline, Antisocial, Paranoid, etc)",
@@ -8507,7 +8876,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8538,6 +8908,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -8553,7 +8924,8 @@ var data = [
    "CountryWork": "Denmark",
    "StateWork": "",
    "Position": "Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8584,6 +8956,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -8599,7 +8972,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Dev Evangelist/Advocate|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8630,6 +9004,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -8645,7 +9020,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other|HR",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8676,6 +9052,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -8691,7 +9068,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Iowa",
    "Position": "Support|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8722,6 +9100,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -8737,7 +9116,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8768,6 +9148,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -8783,7 +9164,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -8814,6 +9196,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -8829,7 +9212,8 @@ var data = [
    "CountryWork": "Belgium",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8860,6 +9244,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -8875,7 +9260,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -8906,6 +9292,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -8921,7 +9308,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8952,6 +9340,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -8967,7 +9356,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Connecticut",
    "Position": "DevOps/SysAdmin|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -8998,6 +9388,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -9013,7 +9404,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9044,6 +9436,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -9059,7 +9452,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -9090,6 +9484,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -9105,7 +9500,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9136,6 +9532,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -9151,7 +9548,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Executive Leadership|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9182,6 +9580,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -9197,7 +9596,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9228,6 +9628,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -9243,7 +9644,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Support",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9274,6 +9676,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -9289,7 +9692,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9320,6 +9724,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -9335,7 +9740,8 @@ var data = [
    "CountryWork": "Russia",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9366,6 +9772,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)|Obsessive-Compulsive Disorder",
@@ -9381,7 +9788,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9412,6 +9820,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -9427,7 +9836,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Supervisor/Team Lead|Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9458,6 +9868,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -9473,7 +9884,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9504,6 +9916,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -9519,7 +9932,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Designer|Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9550,6 +9964,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Obsessive-Compulsive Disorder|Substance Use Disorder",
@@ -9565,7 +9980,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9596,6 +10012,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -9611,7 +10028,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Support",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9642,6 +10060,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -9657,7 +10076,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9688,6 +10108,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -9703,7 +10124,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9734,6 +10156,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -9749,7 +10172,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "South Dakota",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9780,6 +10204,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Post-traumatic Stress Disorder|Substance Use Disorder|Addictive Disorder",
@@ -9795,7 +10220,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9826,6 +10252,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -9841,7 +10268,8 @@ var data = [
    "CountryWork": "Russia",
    "StateWork": "",
    "Position": "Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9872,6 +10300,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -9887,7 +10316,8 @@ var data = [
    "CountryWork": "Russia",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9918,6 +10348,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -9933,7 +10364,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Nevada",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -9964,6 +10396,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -9979,7 +10412,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10010,6 +10444,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -10025,7 +10460,8 @@ var data = [
    "CountryWork": "Belgium",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10056,6 +10492,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -10071,7 +10508,8 @@ var data = [
    "CountryWork": "Russia",
    "StateWork": "",
    "Position": "Other|Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10102,6 +10540,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -10117,7 +10556,8 @@ var data = [
    "CountryWork": "Russia",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10148,6 +10588,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder|Obsessive-Compulsive Disorder|Stress Response Syndromes",
@@ -10163,7 +10604,8 @@ var data = [
    "CountryWork": "Denmark",
    "StateWork": "",
    "Position": "Executive Leadership|Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10194,6 +10636,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -10209,7 +10652,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10240,6 +10684,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -10255,7 +10700,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10286,6 +10732,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -10301,7 +10748,8 @@ var data = [
    "CountryWork": "Spain",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10332,6 +10780,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -10347,7 +10796,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10378,6 +10828,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -10393,7 +10844,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Hawaii",
    "Position": "Support|Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10424,6 +10876,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -10439,7 +10892,8 @@ var data = [
    "CountryWork": "France",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10470,6 +10924,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -10485,7 +10940,8 @@ var data = [
    "CountryWork": "India",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10516,6 +10972,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -10531,7 +10988,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10562,6 +11020,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder",
@@ -10577,7 +11036,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10608,6 +11068,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -10623,7 +11084,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "HR",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10654,6 +11116,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -10669,7 +11132,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Nebraska",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10700,6 +11164,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -10715,7 +11180,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10746,6 +11212,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -10761,7 +11228,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Maine",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10792,6 +11260,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -10807,7 +11276,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Missouri",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10838,6 +11308,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -10853,7 +11324,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Arizona",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -10884,6 +11356,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -10899,7 +11372,8 @@ var data = [
    "CountryWork": "France",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -10930,6 +11404,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -10945,7 +11420,8 @@ var data = [
    "CountryWork": "Russia",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -10976,6 +11452,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -10991,7 +11468,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Front-end Developer|Back-end Developer|Sales|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11022,6 +11500,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -11037,7 +11516,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11068,6 +11548,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -11083,7 +11564,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11114,6 +11596,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -11129,7 +11612,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oklahoma",
    "Position": "Front-end Developer|Back-end Developer|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -11160,6 +11644,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -11175,7 +11660,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "One-person shop|Back-end Developer|Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11206,6 +11692,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -11221,7 +11708,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -11252,6 +11740,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -11267,7 +11756,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11298,6 +11788,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -11313,7 +11804,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11344,6 +11836,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Post-traumatic Stress Disorder",
@@ -11359,7 +11852,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11390,6 +11884,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Personality Disorder (Borderline, Antisocial, Paranoid, etc)",
@@ -11405,7 +11900,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Wisconsin",
    "Position": "Front-end Developer|Designer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11436,6 +11932,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -11451,7 +11948,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Arizona",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11482,6 +11980,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -11497,7 +11996,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other|Support",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11528,6 +12028,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -11543,7 +12044,8 @@ var data = [
    "CountryWork": "United Arab Emirates",
    "StateWork": "",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11574,6 +12076,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "",
@@ -11589,7 +12092,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "HR",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11620,6 +12124,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -11635,7 +12140,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11666,6 +12172,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Substance Use Disorder",
@@ -11681,7 +12188,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Supervisor/Team Lead|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -11712,6 +12220,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -11727,7 +12236,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "DevOps/SysAdmin|One-person shop|Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11758,6 +12268,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -11773,7 +12284,8 @@ var data = [
    "CountryWork": "Mexico",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11804,6 +12316,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -11819,7 +12332,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11850,6 +12364,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Substance Use Disorder",
@@ -11865,7 +12380,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11896,6 +12412,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -11911,7 +12428,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11942,6 +12460,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -11957,7 +12476,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -11988,6 +12508,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Attention Deficit Hyperactivity Disorder",
@@ -12003,7 +12524,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12034,6 +12556,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -12049,7 +12572,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12080,6 +12604,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -12095,7 +12620,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12126,6 +12652,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Stress Response Syndromes",
@@ -12141,7 +12668,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Executive Leadership|Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12172,6 +12700,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -12187,7 +12716,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12218,6 +12748,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -12233,7 +12764,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer|Dev Evangelist/Advocate",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12264,6 +12796,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder|Substance Use Disorder|Addictive Disorder",
@@ -12279,7 +12812,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12310,6 +12844,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -12325,7 +12860,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12356,6 +12892,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Attention Deficit Hyperactivity Disorder|Post-traumatic Stress Disorder",
@@ -12371,7 +12908,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12402,6 +12940,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -12417,7 +12956,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12448,6 +12988,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -12463,7 +13004,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12494,6 +13036,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -12509,7 +13052,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Support|HR|Supervisor/Team Lead|Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12540,6 +13084,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -12555,7 +13100,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12586,6 +13132,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -12601,7 +13148,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -12632,6 +13180,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -12647,7 +13196,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|Support",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12678,6 +13228,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -12693,7 +13244,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12724,6 +13276,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -12739,7 +13292,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Kansas",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12770,6 +13324,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -12785,7 +13340,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -12816,6 +13372,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -12831,7 +13388,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "One-person shop|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12862,6 +13420,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -12877,7 +13436,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12908,6 +13468,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -12923,7 +13484,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "Supervisor/Team Lead|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -12954,6 +13516,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -12969,7 +13532,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13000,6 +13564,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -13015,7 +13580,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -13046,6 +13612,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -13061,7 +13628,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer|Front-end Developer|One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13092,6 +13660,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -13107,7 +13676,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13138,6 +13708,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder",
@@ -13153,7 +13724,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13184,6 +13756,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder",
@@ -13199,7 +13772,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13230,6 +13804,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -13245,7 +13820,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13276,6 +13852,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -13291,7 +13868,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Virginia",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13322,6 +13900,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -13337,7 +13916,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13368,6 +13948,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -13383,7 +13964,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13414,6 +13996,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -13429,7 +14012,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13460,6 +14044,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -13475,7 +14060,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -13506,6 +14092,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "",
@@ -13521,7 +14108,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13552,6 +14140,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -13567,7 +14156,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New Jersey",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13598,6 +14188,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -13613,7 +14204,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -13644,6 +14236,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -13659,7 +14252,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13690,6 +14284,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Post-traumatic Stress Disorder|Substance Use Disorder",
@@ -13705,7 +14300,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13736,6 +14332,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -13751,7 +14348,8 @@ var data = [
    "CountryWork": "Switzerland",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13782,6 +14380,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -13797,7 +14396,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13828,6 +14428,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -13843,7 +14444,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13874,6 +14476,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -13889,7 +14492,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Support",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13920,6 +14524,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder",
@@ -13935,7 +14540,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -13966,6 +14572,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -13981,7 +14588,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -14012,6 +14620,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)|Obsessive-Compulsive Disorder",
@@ -14027,7 +14636,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -14058,6 +14668,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -14073,7 +14684,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -14104,6 +14716,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -14119,7 +14732,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Front-end Developer|Back-end Developer|Support",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -14150,6 +14764,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -14165,7 +14780,8 @@ var data = [
    "CountryWork": "Russia",
    "StateWork": "",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -14196,6 +14812,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -14211,7 +14828,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "DevOps/SysAdmin|Back-end Developer|One-person shop|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -14242,6 +14860,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -14257,7 +14876,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Designer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -14288,6 +14908,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -14303,7 +14924,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -14334,6 +14956,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -14349,7 +14972,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "One-person shop|DevOps/SysAdmin|Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -14380,6 +15004,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -14395,7 +15020,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -14426,6 +15052,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -14441,7 +15068,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Supervisor/Team Lead|Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -14472,6 +15100,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -14487,7 +15116,8 @@ var data = [
    "CountryWork": "Norway",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -14518,6 +15148,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -14533,7 +15164,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -14564,6 +15196,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -14579,7 +15212,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -14610,6 +15244,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -14625,7 +15260,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -14656,6 +15292,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Obsessive-Compulsive Disorder",
@@ -14671,7 +15308,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -14702,6 +15340,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -14717,7 +15356,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Vermont",
    "Position": "Dev Evangelist/Advocate|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -14748,6 +15388,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -14763,7 +15404,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -14794,6 +15436,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -14809,7 +15452,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Designer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -14840,6 +15484,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -14855,7 +15500,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Sales",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -14886,6 +15532,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -14901,7 +15548,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -14932,6 +15580,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -14947,7 +15596,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -14978,6 +15628,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -14993,7 +15644,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15024,6 +15676,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -15039,7 +15692,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15070,6 +15724,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -15085,7 +15740,8 @@ var data = [
    "CountryWork": "Argentina",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15116,6 +15772,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -15131,7 +15788,8 @@ var data = [
    "CountryWork": "India",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15162,6 +15820,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -15177,7 +15836,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -15208,6 +15868,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Depression",
@@ -15223,7 +15884,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15254,6 +15916,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -15269,7 +15932,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15300,6 +15964,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -15315,7 +15980,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15346,6 +16012,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -15361,7 +16028,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Designer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15392,6 +16060,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -15407,7 +16076,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Supervisor/Team Lead|Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15438,6 +16108,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -15453,7 +16124,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15484,6 +16156,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder",
@@ -15499,7 +16172,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Front-end Developer|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -15530,6 +16204,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -15545,7 +16220,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15576,6 +16252,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -15591,7 +16268,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15622,6 +16300,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Autism (Asperger's)",
@@ -15637,7 +16316,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Designer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -15668,6 +16348,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -15683,7 +16364,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15714,6 +16396,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Obsessive-Compulsive Disorder|Post-traumatic Stress Disorder",
@@ -15729,7 +16412,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Virginia",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15760,6 +16444,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -15775,7 +16460,8 @@ var data = [
    "CountryWork": "Ireland",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15806,6 +16492,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -15821,7 +16508,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15852,6 +16540,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -15867,7 +16556,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15898,6 +16588,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -15913,7 +16604,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15944,6 +16636,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -15959,7 +16652,8 @@ var data = [
    "CountryWork": "Italy",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -15990,6 +16684,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -16005,7 +16700,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Rhode Island",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -16036,6 +16732,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -16051,7 +16748,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -16082,6 +16780,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -16097,7 +16796,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -16128,6 +16828,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -16143,7 +16844,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Dev Evangelist/Advocate|DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -16174,6 +16876,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -16189,7 +16892,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -16220,6 +16924,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -16235,7 +16940,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Support|Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -16266,6 +16972,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -16281,7 +16988,8 @@ var data = [
    "CountryWork": "Denmark",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -16312,6 +17020,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Post-traumatic Stress Disorder",
@@ -16327,7 +17036,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "One-person shop|Front-end Developer|Back-end Developer|Supervisor/Team Lead|Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -16358,6 +17068,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Addictive Disorder",
@@ -16373,7 +17084,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Kansas",
    "Position": "DevOps/SysAdmin|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -16404,6 +17116,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -16419,7 +17132,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Dev Evangelist/Advocate|Back-end Developer|Designer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -16450,6 +17164,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)",
@@ -16465,7 +17180,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -16496,6 +17212,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -16511,7 +17228,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -16542,6 +17260,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -16557,7 +17276,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -16588,6 +17308,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -16603,7 +17324,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -16634,6 +17356,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -16649,7 +17372,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -16680,6 +17404,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -16695,7 +17420,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Vermont",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -16726,6 +17452,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -16741,7 +17468,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Other|Dev Evangelist/Advocate|Sales|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -16772,6 +17500,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -16787,7 +17516,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Maryland",
    "Position": "DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead|Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -16818,6 +17548,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -16833,7 +17564,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Support",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -16864,6 +17596,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -16879,7 +17612,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -16910,6 +17644,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Post-traumatic Stress Disorder",
@@ -16925,7 +17660,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -16956,6 +17692,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -16971,7 +17708,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -17002,6 +17740,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -17017,7 +17756,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Support|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -17048,6 +17788,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -17063,7 +17804,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -17094,6 +17836,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -17109,7 +17852,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "HR|Supervisor/Team Lead|Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -17140,6 +17884,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Traumatic Brain Injury",
@@ -17155,7 +17900,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -17186,6 +17932,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -17201,7 +17948,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -17232,6 +17980,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Dissociative Disorder",
@@ -17247,7 +17996,8 @@ var data = [
    "CountryWork": "Finland",
    "StateWork": "",
    "Position": "Other|Front-end Developer|Back-end Developer|Sales|DevOps/SysAdmin|Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -17278,6 +18028,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -17293,7 +18044,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -17324,6 +18076,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -17339,7 +18092,8 @@ var data = [
    "CountryWork": "Russia",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -17370,6 +18124,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -17385,7 +18140,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -17416,6 +18172,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)|Attention Deficit Hyperactivity Disorder",
@@ -17431,7 +18188,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -17462,6 +18220,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -17477,7 +18236,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -17508,6 +18268,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Addictive Disorder",
@@ -17523,7 +18284,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -17554,6 +18316,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Attention Deficit Hyperactivity Disorder",
@@ -17569,7 +18332,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -17600,6 +18364,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Addictive Disorder",
@@ -17615,7 +18380,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -17646,6 +18412,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Substance Use Disorder",
@@ -17661,7 +18428,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -17692,6 +18460,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)",
@@ -17707,7 +18476,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -17738,6 +18508,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -17753,7 +18524,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -17784,6 +18556,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -17799,7 +18572,8 @@ var data = [
    "CountryWork": "Turkey",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -17830,6 +18604,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -17845,7 +18620,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New Jersey",
    "Position": "HR",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -17876,6 +18652,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder",
@@ -17891,7 +18668,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -17922,6 +18700,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -17937,7 +18716,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -17968,6 +18748,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -17983,7 +18764,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Sales",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -18014,6 +18796,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -18029,7 +18812,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -18060,6 +18844,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -18075,7 +18860,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "DevOps/SysAdmin|Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -18106,6 +18892,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -18121,7 +18908,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -18152,6 +18940,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -18167,7 +18956,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -18198,6 +18988,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -18213,7 +19004,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -18244,6 +19036,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -18259,7 +19052,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Sales",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -18290,6 +19084,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -18305,7 +19100,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -18336,6 +19132,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Obsessive-Compulsive Disorder|Post-traumatic Stress Disorder",
@@ -18351,7 +19148,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -18382,6 +19180,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -18397,7 +19196,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -18428,6 +19228,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -18443,7 +19244,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -18474,6 +19276,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -18489,7 +19292,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -18520,6 +19324,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -18535,7 +19340,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Support",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -18566,6 +19372,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -18581,7 +19388,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "One-person shop|Designer|Front-end Developer|Back-end Developer|Support|Dev Evangelist/Advocate",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -18612,6 +19420,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -18627,7 +19436,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Dev Evangelist/Advocate|Support|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -18658,6 +19468,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -18673,7 +19484,8 @@ var data = [
    "CountryWork": "Colombia",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -18704,6 +19516,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -18719,7 +19532,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -18750,6 +19564,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Attention Deficit Hyperactivity Disorder|Obsessive-Compulsive Disorder",
@@ -18765,7 +19580,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -18796,6 +19612,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -18811,7 +19628,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -18842,6 +19660,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder",
@@ -18857,7 +19676,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Alabama",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -18888,6 +19708,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -18903,7 +19724,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -18934,6 +19756,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -18949,7 +19772,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Dev Evangelist/Advocate|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -18980,6 +19804,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -18995,7 +19820,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Designer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -19026,6 +19852,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -19041,7 +19868,8 @@ var data = [
    "CountryWork": "Switzerland",
    "StateWork": "",
    "Position": "One-person shop|Back-end Developer|Sales|DevOps/SysAdmin|Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -19072,6 +19900,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -19087,7 +19916,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -19118,6 +19948,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Stress Response Syndromes|Substance Use Disorder",
@@ -19133,7 +19964,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -19164,6 +19996,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Obsessive-Compulsive Disorder",
@@ -19179,7 +20012,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -19210,6 +20044,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Gender Dysphoria",
@@ -19225,7 +20060,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead|Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -19256,6 +20092,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -19271,7 +20108,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -19302,6 +20140,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -19317,7 +20156,8 @@ var data = [
    "CountryWork": "Colombia",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -19348,6 +20188,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -19363,7 +20204,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -19394,6 +20236,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -19409,7 +20252,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -19440,6 +20284,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -19455,7 +20300,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Supervisor/Team Lead|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -19486,6 +20332,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Asperges",
@@ -19501,7 +20348,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -19532,6 +20380,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -19547,7 +20396,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Supervisor/Team Lead|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -19578,6 +20428,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -19593,7 +20444,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -19624,6 +20476,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -19639,7 +20492,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -19670,6 +20524,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -19685,7 +20540,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -19716,6 +20572,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -19731,7 +20588,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -19762,6 +20620,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -19777,7 +20636,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "HR|Dev Evangelist/Advocate|Sales",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -19808,6 +20668,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -19823,7 +20684,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -19854,6 +20716,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -19869,7 +20732,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -19900,6 +20764,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -19915,7 +20780,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer|Dev Evangelist/Advocate|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -19946,6 +20812,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -19961,7 +20828,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "DevOps/SysAdmin|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -19992,6 +20860,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -20007,7 +20876,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -20038,6 +20908,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -20053,7 +20924,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -20084,6 +20956,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -20099,7 +20972,8 @@ var data = [
    "CountryWork": "Czech Republic",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -20130,6 +21004,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -20145,7 +21020,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Front-end Developer|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -20176,6 +21052,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -20191,7 +21068,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -20222,6 +21100,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -20237,7 +21116,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -20268,6 +21148,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -20283,7 +21164,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Iowa",
    "Position": "Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -20314,6 +21196,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -20329,7 +21212,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -20360,6 +21244,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Obsessive-Compulsive Disorder",
@@ -20375,7 +21260,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "One-person shop|Back-end Developer|Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -20406,6 +21292,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -20421,7 +21308,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "One-person shop|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -20452,6 +21340,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -20467,7 +21356,8 @@ var data = [
    "CountryWork": "Costa Rica",
    "StateWork": "",
    "Position": "One-person shop|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -20498,6 +21388,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -20513,7 +21404,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -20544,6 +21436,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder|PTSD (undiagnosed)",
@@ -20559,7 +21452,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -20590,6 +21484,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -20605,7 +21500,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -20636,6 +21532,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -20651,7 +21548,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -20682,6 +21580,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -20697,7 +21596,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -20728,6 +21628,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -20743,7 +21644,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -20774,6 +21676,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Post-traumatic Stress Disorder|Stress Response Syndromes",
@@ -20789,7 +21692,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -20820,6 +21724,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Post-traumatic Stress Disorder|Substance Use Disorder|Addictive Disorder",
@@ -20835,7 +21740,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Georgia",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -20866,6 +21772,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -20881,7 +21788,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -20912,6 +21820,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -20927,7 +21836,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -20958,6 +21868,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -20973,7 +21884,8 @@ var data = [
    "CountryWork": "Vietnam",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21004,6 +21916,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -21019,7 +21932,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Support",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21050,6 +21964,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -21065,7 +21980,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21096,6 +22012,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -21111,7 +22028,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21142,6 +22060,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -21157,7 +22076,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21188,6 +22108,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -21203,7 +22124,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21234,6 +22156,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -21249,7 +22172,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21280,6 +22204,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -21295,7 +22220,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -21326,6 +22252,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -21341,7 +22268,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Nebraska",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21372,6 +22300,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Post-traumatic Stress Disorder",
@@ -21387,7 +22316,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21418,6 +22348,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -21433,7 +22364,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Nebraska",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21464,6 +22396,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -21479,7 +22412,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "West Virginia",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21510,6 +22444,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -21525,7 +22460,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -21556,6 +22492,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Post-traumatic Stress Disorder",
@@ -21571,7 +22508,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Other|Executive Leadership|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer|One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21602,6 +22540,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -21617,7 +22556,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Supervisor/Team Lead|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21648,6 +22588,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -21663,7 +22604,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Nebraska",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21694,6 +22636,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -21709,7 +22652,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21740,6 +22684,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -21755,7 +22700,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "DevOps/SysAdmin|Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21786,6 +22732,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -21801,7 +22748,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21832,6 +22780,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -21847,7 +22796,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Nevada",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21878,6 +22828,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -21893,7 +22844,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Nebraska",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21924,6 +22876,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Post-traumatic Stress Disorder",
@@ -21939,7 +22892,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Nebraska",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -21970,6 +22924,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -21985,7 +22940,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -22016,6 +22972,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -22031,7 +22988,8 @@ var data = [
    "CountryWork": "Finland",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -22062,6 +23020,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -22077,7 +23036,8 @@ var data = [
    "CountryWork": "Bulgaria",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -22108,6 +23068,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -22123,7 +23084,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Nebraska",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -22154,6 +23116,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -22169,7 +23132,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Nebraska",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -22200,6 +23164,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -22215,7 +23180,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -22246,6 +23212,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -22261,7 +23228,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -22292,6 +23260,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -22307,7 +23276,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -22338,6 +23308,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -22353,7 +23324,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -22384,6 +23356,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder|Substance Use Disorder|Addictive Disorder",
@@ -22399,7 +23372,8 @@ var data = [
    "CountryWork": "India",
    "StateWork": "",
    "Position": "One-person shop|Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate|Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -22430,6 +23404,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Eating Disorder (Anorexia, Bulimia, etc)|Stress Response Syndromes",
@@ -22445,7 +23420,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -22476,6 +23452,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -22491,7 +23468,8 @@ var data = [
    "CountryWork": "Ireland",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -22522,6 +23500,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -22537,7 +23516,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Front-end Developer|Designer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -22568,6 +23548,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -22583,7 +23564,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Maryland",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -22614,6 +23596,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -22629,7 +23612,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -22660,6 +23644,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -22675,7 +23660,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -22706,6 +23692,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -22721,7 +23708,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -22752,6 +23740,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -22767,7 +23756,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -22798,6 +23788,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -22813,7 +23804,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -22844,6 +23836,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -22859,7 +23852,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -22890,6 +23884,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -22905,7 +23900,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Front-end Developer|Back-end Developer|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -22936,6 +23932,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -22951,7 +23948,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -22982,6 +23980,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -22997,7 +23996,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -23028,6 +24028,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -23043,7 +24044,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Virginia",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -23074,6 +24076,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Stress Response Syndromes",
@@ -23089,7 +24092,8 @@ var data = [
    "CountryWork": "New Zealand",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -23120,6 +24124,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -23135,7 +24140,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -23166,6 +24172,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -23181,7 +24188,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Other|Supervisor/Team Lead|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -23212,6 +24220,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -23227,7 +24236,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -23258,6 +24268,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Psychotic Disorder (Schizophrenia, Schizoaffective, etc)",
@@ -23273,7 +24284,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -23304,6 +24316,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -23319,7 +24332,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Supervisor/Team Lead|Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -23350,6 +24364,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -23365,7 +24380,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -23396,6 +24412,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Attention Deficit Hyperactivity Disorder",
@@ -23411,7 +24428,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -23442,6 +24460,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -23457,7 +24476,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -23488,6 +24508,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -23503,7 +24524,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Supervisor/Team Lead|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -23534,6 +24556,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -23549,7 +24572,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other|Dev Evangelist/Advocate|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -23580,6 +24604,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -23595,7 +24620,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -23626,6 +24652,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -23641,7 +24668,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -23672,6 +24700,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -23687,7 +24716,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -23718,6 +24748,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -23733,7 +24764,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -23764,6 +24796,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -23779,7 +24812,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -23810,6 +24844,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -23825,7 +24860,8 @@ var data = [
    "CountryWork": "France",
    "StateWork": "",
    "Position": "Support",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -23856,6 +24892,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -23871,7 +24908,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -23902,6 +24940,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -23917,7 +24956,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other|Back-end Developer|Front-end Developer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -23948,6 +24988,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -23963,7 +25004,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -23994,6 +25036,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -24009,7 +25052,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -24040,6 +25084,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -24055,7 +25100,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other|One-person shop|Back-end Developer|Sales|Support|DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -24086,6 +25132,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -24101,7 +25148,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -24132,6 +25180,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -24147,7 +25196,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer|One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -24178,6 +25228,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Substance Use Disorder|Addictive Disorder",
@@ -24193,7 +25244,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -24224,6 +25276,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -24239,7 +25292,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -24270,6 +25324,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -24285,7 +25340,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -24316,6 +25372,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -24331,7 +25388,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -24362,6 +25420,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -24377,7 +25436,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Support|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -24408,6 +25468,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -24423,7 +25484,8 @@ var data = [
    "CountryWork": "Spain",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -24454,6 +25516,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -24469,7 +25532,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "One-person shop|Designer|Front-end Developer|Back-end Developer|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -24500,6 +25564,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -24515,7 +25580,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Designer|Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -24546,6 +25612,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Substance Use Disorder",
@@ -24561,7 +25628,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -24592,6 +25660,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -24607,7 +25676,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "One-person shop|Front-end Developer|Back-end Developer|Sales|Support|DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -24638,6 +25708,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -24653,7 +25724,8 @@ var data = [
    "CountryWork": "Brazil",
    "StateWork": "",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -24684,6 +25756,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -24699,7 +25772,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -24730,6 +25804,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -24745,7 +25820,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Georgia",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -24776,6 +25852,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -24791,7 +25868,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -24822,6 +25900,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -24837,7 +25916,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Back-end Developer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -24868,6 +25948,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -24883,7 +25964,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Other|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -24914,6 +25996,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -24929,7 +26012,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "DevOps/SysAdmin|Support|Sales|One-person shop|Designer|Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -24960,6 +26044,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -24975,7 +26060,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25006,6 +26092,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -25021,7 +26108,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25052,6 +26140,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -25067,7 +26156,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25098,6 +26188,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -25113,7 +26204,8 @@ var data = [
    "CountryWork": "South Africa",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -25144,6 +26236,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -25159,7 +26252,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25190,6 +26284,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -25205,7 +26300,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25236,6 +26332,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -25251,7 +26348,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25282,6 +26380,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -25297,7 +26396,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25328,6 +26428,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -25343,7 +26444,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25374,6 +26476,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -25389,7 +26492,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Wisconsin",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25420,6 +26524,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -25435,7 +26540,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25466,6 +26572,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -25481,7 +26588,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25512,6 +26620,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -25527,7 +26636,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25558,6 +26668,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -25573,7 +26684,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25604,6 +26716,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -25619,7 +26732,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25650,6 +26764,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -25665,7 +26780,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25696,6 +26812,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Post-traumatic Stress Disorder",
@@ -25711,7 +26828,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25742,6 +26860,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -25757,7 +26876,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25788,6 +26908,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -25803,7 +26924,8 @@ var data = [
    "CountryWork": "South Africa",
    "StateWork": "",
    "Position": "Designer|Front-end Developer|Back-end Developer|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25834,6 +26956,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -25849,7 +26972,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Other|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25880,6 +27004,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -25895,7 +27020,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -25926,6 +27052,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -25941,7 +27068,8 @@ var data = [
    "CountryWork": "Poland",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -25972,6 +27100,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -25987,7 +27116,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26018,6 +27148,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -26033,7 +27164,8 @@ var data = [
    "CountryWork": "Slovakia",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26064,6 +27196,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -26079,7 +27212,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26110,6 +27244,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -26125,7 +27260,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26156,6 +27292,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -26171,7 +27308,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26202,6 +27340,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -26217,7 +27356,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26248,6 +27388,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -26263,7 +27404,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Supervisor/Team Lead|Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26294,6 +27436,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Obsessive-Compulsive Disorder",
@@ -26309,7 +27452,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26340,6 +27484,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -26355,7 +27500,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26386,6 +27532,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -26401,7 +27548,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Front-end Developer|Back-end Developer|Support|Dev Evangelist/Advocate",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26432,6 +27580,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "",
@@ -26447,7 +27596,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -26478,6 +27628,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -26493,7 +27644,8 @@ var data = [
    "CountryWork": "Austria",
    "StateWork": "",
    "Position": "Back-end Developer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26524,6 +27676,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Obsessive-Compulsive Disorder",
@@ -26539,7 +27692,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26570,6 +27724,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Stress Response Syndromes|Addictive Disorder",
@@ -26585,7 +27740,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Executive Leadership|Supervisor/Team Lead|HR|DevOps/SysAdmin|Support|Sales|Back-end Developer|One-person shop|Designer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26616,6 +27772,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -26631,7 +27788,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26662,6 +27820,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -26677,7 +27836,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -26708,6 +27868,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -26723,7 +27884,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26754,6 +27916,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -26769,7 +27932,8 @@ var data = [
    "CountryWork": "Denmark",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -26800,6 +27964,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -26815,7 +27980,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Georgia",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26846,6 +28012,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Obsessive-Compulsive Disorder|Post-traumatic Stress Disorder|Stress Response Syndromes",
@@ -26861,7 +28028,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26892,6 +28060,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -26907,7 +28076,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Louisiana",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26938,6 +28108,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Psychotic Disorder (Schizophrenia, Schizoaffective, etc)",
@@ -26953,7 +28124,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -26984,6 +28156,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -26999,7 +28172,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -27030,6 +28204,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -27045,7 +28220,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -27076,6 +28252,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)",
@@ -27091,7 +28268,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "South Carolina",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -27122,6 +28300,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -27137,7 +28316,8 @@ var data = [
    "CountryWork": "Bangladesh",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -27168,6 +28348,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -27183,7 +28364,8 @@ var data = [
    "CountryWork": "India",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin|Dev Evangelist/Advocate",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -27214,6 +28396,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -27229,7 +28412,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Back-end Developer|One-person shop",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -27260,6 +28444,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -27275,7 +28460,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -27306,6 +28492,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -27321,7 +28508,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "South Dakota",
    "Position": "Support|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -27352,6 +28540,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -27367,7 +28556,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Supervisor/Team Lead|Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -27398,6 +28588,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -27413,7 +28604,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -27444,6 +28636,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -27459,7 +28652,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "One-person shop|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -27490,6 +28684,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Post-traumatic Stress Disorder|Substance Use Disorder|Addictive Disorder",
@@ -27505,7 +28700,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -27536,6 +28732,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -27551,7 +28748,8 @@ var data = [
    "CountryWork": "Norway",
    "StateWork": "",
    "Position": "Other|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|One-person shop",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -27582,6 +28780,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -27597,7 +28796,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -27628,6 +28828,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -27643,7 +28844,8 @@ var data = [
    "CountryWork": "Finland",
    "StateWork": "",
    "Position": "Support|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -27674,6 +28876,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -27689,7 +28892,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -27720,6 +28924,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder|Stress Response Syndromes",
@@ -27735,7 +28940,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "One-person shop|Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -27766,6 +28972,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -27781,7 +28988,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Maryland",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -27812,6 +29020,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -27827,7 +29036,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -27858,6 +29068,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder",
@@ -27873,7 +29084,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -27904,6 +29116,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -27919,7 +29132,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -27950,6 +29164,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -27965,7 +29180,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -27996,6 +29212,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -28011,7 +29228,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -28042,6 +29260,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -28057,7 +29276,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Kansas",
    "Position": "DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -28088,6 +29308,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Stress Response Syndromes",
@@ -28103,7 +29324,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Dev Evangelist/Advocate|Support|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -28134,6 +29356,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -28149,7 +29372,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -28180,6 +29404,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -28195,7 +29420,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -28226,6 +29452,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder",
@@ -28241,7 +29468,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -28272,6 +29500,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -28287,7 +29516,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "One-person shop|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -28318,6 +29548,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -28333,7 +29564,8 @@ var data = [
    "CountryWork": "Pakistan",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -28364,6 +29596,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -28379,7 +29612,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -28410,6 +29644,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder|Stress Response Syndromes",
@@ -28425,7 +29660,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -28456,6 +29692,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Psychotic Disorder (Schizophrenia, Schizoaffective, etc)",
@@ -28471,7 +29708,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -28502,6 +29740,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -28517,7 +29756,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "One-person shop|Back-end Developer|Sales|Support|Supervisor/Team Lead|Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -28548,6 +29788,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Obsessive-Compulsive Disorder|Addictive Disorder",
@@ -28563,7 +29804,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -28594,6 +29836,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -28609,7 +29852,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Missouri",
    "Position": "Front-end Developer|Back-end Developer|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -28640,6 +29884,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder",
@@ -28655,7 +29900,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "DevOps/SysAdmin|Support",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -28686,6 +29932,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -28701,7 +29948,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Maryland",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -28732,6 +29980,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -28747,7 +29996,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -28778,6 +30028,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -28793,7 +30044,8 @@ var data = [
    "CountryWork": "Norway",
    "StateWork": "",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -28824,6 +30076,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -28839,7 +30092,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -28870,6 +30124,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -28885,7 +30140,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -28916,6 +30172,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -28931,7 +30188,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -28962,6 +30220,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -28977,7 +30236,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -29008,6 +30268,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -29023,7 +30284,8 @@ var data = [
    "CountryWork": "Switzerland",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -29054,6 +30316,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Post-traumatic Stress Disorder|Stress Response Syndromes|Substance Use Disorder|Addictive Disorder",
@@ -29069,7 +30332,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -29100,6 +30364,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -29115,7 +30380,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Kansas",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -29146,6 +30412,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -29161,7 +30428,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Kansas",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -29192,6 +30460,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -29207,7 +30476,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Kansas",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -29238,6 +30508,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "",
@@ -29253,7 +30524,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "DevOps/SysAdmin|Support|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -29284,6 +30556,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -29299,7 +30572,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Arizona",
    "Position": "Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -29330,6 +30604,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -29345,7 +30620,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -29376,6 +30652,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -29391,7 +30668,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -29422,6 +30700,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -29437,7 +30716,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Back-end Developer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -29468,6 +30748,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -29483,7 +30764,8 @@ var data = [
    "CountryWork": "France",
    "StateWork": "",
    "Position": "Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -29514,6 +30796,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -29529,7 +30812,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer|Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -29560,6 +30844,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Obsessive-Compulsive Disorder",
@@ -29575,7 +30860,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -29606,6 +30892,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder|Addictive Disorder|Autism",
@@ -29621,7 +30908,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -29652,6 +30940,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -29667,7 +30956,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -29698,6 +30988,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -29713,7 +31004,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Kansas",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -29744,6 +31036,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -29759,7 +31052,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Designer|Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -29790,6 +31084,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -29805,7 +31100,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -29836,6 +31132,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -29851,7 +31148,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Other|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -29882,6 +31180,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -29897,7 +31196,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -29928,6 +31228,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder",
@@ -29943,7 +31244,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer|Designer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -29974,6 +31276,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -29989,7 +31292,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30020,6 +31324,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -30035,7 +31340,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30066,6 +31372,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -30081,7 +31388,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30112,6 +31420,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -30127,7 +31436,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "DevOps/SysAdmin|Support",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30158,6 +31468,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -30173,7 +31484,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Kansas",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30204,6 +31516,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -30219,7 +31532,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30250,6 +31564,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -30265,7 +31580,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Kansas",
    "Position": "Executive Leadership|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30296,6 +31612,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -30311,7 +31628,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Kansas",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30342,6 +31660,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -30357,7 +31676,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Executive Leadership|Supervisor/Team Lead|Sales",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30388,6 +31708,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder",
@@ -30403,7 +31724,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30434,6 +31756,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -30449,7 +31772,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Other|Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -30480,6 +31804,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Attention Deficit Hyperactivity Disorder",
@@ -30495,7 +31820,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30526,6 +31852,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -30541,7 +31868,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oklahoma",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30572,6 +31900,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -30587,7 +31916,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30618,6 +31948,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -30633,7 +31964,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30664,6 +31996,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder|Addictive Disorder",
@@ -30679,7 +32012,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oklahoma",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30710,6 +32044,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -30725,7 +32060,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -30756,6 +32092,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -30771,7 +32108,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "One-person shop|Designer|Front-end Developer|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30802,6 +32140,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -30817,7 +32156,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30848,6 +32188,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -30863,7 +32204,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Designer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30894,6 +32236,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -30909,7 +32252,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "DevOps/SysAdmin|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30940,6 +32284,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -30955,7 +32300,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -30986,6 +32332,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -31001,7 +32348,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Designer|Front-end Developer|Back-end Developer|DevOps/SysAdmin|Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31032,6 +32380,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -31047,7 +32396,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Support",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31078,6 +32428,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -31093,7 +32444,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Other|Dev Evangelist/Advocate|Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -31124,6 +32476,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Obsessive-Compulsive Disorder|Post-traumatic Stress Disorder|Substance Use Disorder",
@@ -31139,7 +32492,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31170,6 +32524,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -31185,7 +32540,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31216,6 +32572,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -31231,7 +32588,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31262,6 +32620,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -31277,7 +32636,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31308,6 +32668,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -31323,7 +32684,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31354,6 +32716,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -31369,7 +32732,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -31400,6 +32764,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -31415,7 +32780,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Missouri",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31446,6 +32812,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -31461,7 +32828,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Supervisor/Team Lead|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31492,6 +32860,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -31507,7 +32876,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31538,6 +32908,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -31553,7 +32924,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Wisconsin",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31584,6 +32956,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder",
@@ -31599,7 +32972,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31630,6 +33004,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -31645,7 +33020,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31676,6 +33052,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -31691,7 +33068,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31722,6 +33100,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -31737,7 +33116,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Virginia",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31768,6 +33148,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Obsessive-Compulsive Disorder|Substance Use Disorder",
@@ -31783,7 +33164,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Rhode Island",
    "Position": "Designer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31814,6 +33196,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -31829,7 +33212,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31860,6 +33244,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -31875,7 +33260,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31906,6 +33292,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Substance Use Disorder|Addictive Disorder",
@@ -31921,7 +33308,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31952,6 +33340,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -31967,7 +33356,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -31998,6 +33388,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -32013,7 +33404,8 @@ var data = [
    "CountryWork": "Ireland",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -32044,6 +33436,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -32059,7 +33452,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Designer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -32090,6 +33484,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -32105,7 +33500,8 @@ var data = [
    "CountryWork": "Brazil",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -32136,6 +33532,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Obsessive-Compulsive Disorder|Post-traumatic Stress Disorder|Stress Response Syndromes",
@@ -32151,7 +33548,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "Other|Executive Leadership|Supervisor/Team Lead|HR|Support|Sales|Designer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -32182,6 +33580,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -32197,7 +33596,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -32228,6 +33628,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Substance Use Disorder",
@@ -32243,7 +33644,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Vermont",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -32274,6 +33676,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -32289,7 +33692,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Maine",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -32320,6 +33724,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -32335,7 +33740,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New Jersey",
    "Position": "Back-end Developer|Support|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -32366,6 +33772,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -32381,7 +33788,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -32412,6 +33820,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -32427,7 +33836,8 @@ var data = [
    "CountryWork": "Brazil",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -32458,6 +33868,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -32473,7 +33884,8 @@ var data = [
    "CountryWork": "New Zealand",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -32504,6 +33916,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -32519,7 +33932,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -32550,6 +33964,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -32565,7 +33980,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -32596,6 +34012,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)",
@@ -32611,7 +34028,8 @@ var data = [
    "CountryWork": "Bulgaria",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -32642,6 +34060,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -32657,7 +34076,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New Hampshire",
    "Position": "Supervisor/Team Lead|Designer|Front-end Developer|Support",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -32688,6 +34108,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -32703,7 +34124,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Support",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -32734,6 +34156,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -32749,7 +34172,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Back-end Developer|Front-end Developer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -32780,6 +34204,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -32795,7 +34220,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -32826,6 +34252,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -32841,7 +34268,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -32872,6 +34300,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -32887,7 +34316,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -32918,6 +34348,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Post-traumatic Stress Disorder",
@@ -32933,7 +34364,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -32964,6 +34396,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Stress Response Syndromes",
@@ -32979,7 +34412,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Executive Leadership|One-person shop|Front-end Developer|Back-end Developer|Support|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -33010,6 +34444,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -33025,7 +34460,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -33056,6 +34492,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -33071,7 +34508,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -33102,6 +34540,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -33117,7 +34556,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Missouri",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -33148,6 +34588,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -33163,7 +34604,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -33194,6 +34636,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Stress Response Syndromes|Addictive Disorder",
@@ -33209,7 +34652,8 @@ var data = [
    "CountryWork": "Afghanistan",
    "StateWork": "",
    "Position": "Executive Leadership|Supervisor/Team Lead|Designer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -33240,6 +34684,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -33255,7 +34700,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -33286,6 +34732,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -33301,7 +34748,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -33332,6 +34780,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -33347,7 +34796,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -33378,6 +34828,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -33393,7 +34844,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Support|Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -33424,6 +34876,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder",
@@ -33439,7 +34892,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Other|Support|Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -33470,6 +34924,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -33485,7 +34940,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -33516,6 +34972,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Psychotic Disorder (Schizophrenia, Schizoaffective, etc)",
@@ -33531,7 +34988,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "One-person shop|Designer|Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -33562,6 +35020,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder|Dissociative Disorder",
@@ -33577,7 +35036,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -33608,6 +35068,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -33623,7 +35084,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -33654,6 +35116,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -33669,7 +35132,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -33700,6 +35164,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Attention Deficit Hyperactivity Disorder",
@@ -33715,7 +35180,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -33746,6 +35212,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -33761,7 +35228,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Georgia",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -33792,6 +35260,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -33807,7 +35276,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Wisconsin",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -33838,6 +35308,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -33853,7 +35324,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "One-person shop",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -33884,6 +35356,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -33899,7 +35372,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Dev Evangelist/Advocate|DevOps/SysAdmin|Designer|Front-end Developer|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -33930,6 +35404,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -33945,7 +35420,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Other|Designer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -33976,6 +35452,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -33991,7 +35468,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -34022,6 +35500,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -34037,7 +35516,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -34068,6 +35548,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -34083,7 +35564,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -34114,6 +35596,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -34129,7 +35612,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oklahoma",
    "Position": "Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -34160,6 +35644,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -34175,7 +35660,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -34206,6 +35692,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -34221,7 +35708,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Front-end Developer|One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -34252,6 +35740,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -34267,7 +35756,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -34298,6 +35788,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -34313,7 +35804,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Maryland",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -34344,6 +35836,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Dissociative Disorder",
@@ -34359,7 +35852,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Designer|Front-end Developer|Back-end Developer|Sales|Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -34390,6 +35884,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -34405,7 +35900,8 @@ var data = [
    "CountryWork": "Greece",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|Dev Evangelist/Advocate",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -34436,6 +35932,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -34451,7 +35948,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer|One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -34482,6 +35980,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -34497,7 +35996,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -34528,6 +36028,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Stress Response Syndromes",
@@ -34543,7 +36044,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Support",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -34574,6 +36076,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -34589,7 +36092,8 @@ var data = [
    "CountryWork": "Ireland",
    "StateWork": "",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -34620,6 +36124,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -34635,7 +36140,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -34666,6 +36172,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -34681,7 +36188,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Connecticut",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -34712,6 +36220,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -34727,7 +36236,8 @@ var data = [
    "CountryWork": "India",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|Support|Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -34758,6 +36268,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -34773,7 +36284,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -34804,6 +36316,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -34819,7 +36332,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -34850,6 +36364,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -34865,7 +36380,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -34896,6 +36412,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder",
@@ -34911,7 +36428,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Missouri",
    "Position": "Designer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -34942,6 +36460,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -34957,7 +36476,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Support",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -34988,6 +36508,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -35003,7 +36524,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Supervisor/Team Lead|Front-end Developer|Back-end Developer|Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -35034,6 +36556,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -35049,7 +36572,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -35080,6 +36604,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -35095,7 +36620,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -35126,6 +36652,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -35141,7 +36668,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Support|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -35172,6 +36700,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Post-traumatic Stress Disorder|Stress Response Syndromes",
@@ -35187,7 +36716,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -35218,6 +36748,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -35233,7 +36764,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Georgia",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -35264,6 +36796,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -35279,7 +36812,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer|One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -35310,6 +36844,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -35325,7 +36860,8 @@ var data = [
    "CountryWork": "New Zealand",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -35356,6 +36892,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -35371,7 +36908,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -35402,6 +36940,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -35417,7 +36956,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "One-person shop|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -35448,6 +36988,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -35463,7 +37004,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Maryland",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -35494,6 +37036,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -35509,7 +37052,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oklahoma",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -35540,6 +37084,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -35555,7 +37100,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -35586,6 +37132,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Stress Response Syndromes",
@@ -35601,7 +37148,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Dev Evangelist/Advocate|Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -35632,6 +37180,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -35647,7 +37196,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "One-person shop|Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -35678,6 +37228,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -35693,7 +37244,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -35724,6 +37276,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -35739,7 +37292,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -35770,6 +37324,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder|Addictive Disorder",
@@ -35785,7 +37340,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -35816,6 +37372,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -35831,7 +37388,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Support",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -35862,6 +37420,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -35877,7 +37436,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Support",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -35908,6 +37468,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -35923,7 +37484,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -35954,6 +37516,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -35969,7 +37532,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Missouri",
    "Position": "Support",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -36000,6 +37564,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -36015,7 +37580,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Maine",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -36046,6 +37612,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -36061,7 +37628,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -36092,6 +37660,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -36107,7 +37676,8 @@ var data = [
    "CountryWork": "Other",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Support|Back-end Developer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -36138,6 +37708,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Sexual addiction",
@@ -36153,7 +37724,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -36184,6 +37756,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -36199,7 +37772,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New Mexico",
    "Position": "DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -36230,6 +37804,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -36245,7 +37820,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -36276,6 +37852,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -36291,7 +37868,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Wisconsin",
    "Position": "One-person shop|Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -36322,6 +37900,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -36337,7 +37916,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -36368,6 +37948,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -36383,7 +37964,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -36414,6 +37996,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -36429,7 +38012,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -36460,6 +38044,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -36475,7 +38060,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -36506,6 +38092,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -36521,7 +38108,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -36552,6 +38140,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -36567,7 +38156,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -36598,6 +38188,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -36613,7 +38204,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Maryland",
    "Position": "Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -36644,6 +38236,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -36659,7 +38252,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Dev Evangelist/Advocate|Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -36690,6 +38284,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -36705,7 +38300,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -36736,6 +38332,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Addictive Disorder",
@@ -36751,7 +38348,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -36782,6 +38380,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -36797,7 +38396,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Wisconsin",
    "Position": "DevOps/SysAdmin|Support|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -36828,6 +38428,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -36843,7 +38444,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Dakota",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -36874,6 +38476,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -36889,7 +38492,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Kansas",
    "Position": "Executive Leadership",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -36920,6 +38524,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -36935,7 +38540,8 @@ var data = [
    "CountryWork": "New Zealand",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -36966,6 +38572,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -36981,7 +38588,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Designer|Support|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -37012,6 +38620,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -37027,7 +38636,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Front-end Developer|Designer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -37058,6 +38668,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -37073,7 +38684,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oklahoma",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -37104,6 +38716,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -37119,7 +38732,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -37150,6 +38764,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -37165,7 +38780,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -37196,6 +38812,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -37211,7 +38828,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -37242,6 +38860,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Attention Deficit Hyperactivity Disorder|Post-traumatic Stress Disorder|Addictive Disorder",
@@ -37257,7 +38876,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oklahoma",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -37288,6 +38908,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -37303,7 +38924,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -37334,6 +38956,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -37349,7 +38972,8 @@ var data = [
    "CountryWork": "Romania",
    "StateWork": "",
    "Position": "Support",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -37380,6 +39004,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -37395,7 +39020,8 @@ var data = [
    "CountryWork": "India",
    "StateWork": "",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -37426,6 +39052,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -37441,7 +39068,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -37472,6 +39100,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -37487,7 +39116,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Support|Designer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -37518,6 +39148,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -37533,7 +39164,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -37564,6 +39196,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Post-traumatic Stress Disorder",
@@ -37579,7 +39212,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "One-person shop|Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -37610,6 +39244,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -37625,7 +39260,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Other|Supervisor/Team Lead|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -37656,6 +39292,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -37671,7 +39308,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Support",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -37702,6 +39340,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -37717,7 +39356,8 @@ var data = [
    "CountryWork": "New Zealand",
    "StateWork": "",
    "Position": "Executive Leadership|Supervisor/Team Lead|Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -37748,6 +39388,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Combination of physical impairment (strongly near-sighted) with a possibly mental one (MCD / \"ADHD\", though its actually a stimulus filtering impairment)",
@@ -37763,7 +39404,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Designer|Front-end Developer|Back-end Developer|Executive Leadership|Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -37794,6 +39436,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -37809,7 +39452,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Designer|Front-end Developer|Back-end Developer|Supervisor/Team Lead|Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -37840,6 +39484,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -37855,7 +39500,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Support|Front-end Developer|Designer|One-person shop",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -37886,6 +39532,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -37901,7 +39548,8 @@ var data = [
    "CountryWork": "Brunei",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -37932,6 +39580,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -37947,7 +39596,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -37978,6 +39628,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -37993,7 +39644,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -38024,6 +39676,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -38039,7 +39692,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -38070,6 +39724,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -38085,7 +39740,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Support",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -38116,6 +39772,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -38131,7 +39788,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -38162,6 +39820,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -38177,7 +39836,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Executive Leadership|Supervisor/Team Lead|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -38208,6 +39868,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -38223,7 +39884,8 @@ var data = [
    "CountryWork": "France",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -38254,6 +39916,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -38269,7 +39932,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Kansas",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -38300,6 +39964,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -38315,7 +39980,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -38346,6 +40012,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -38361,7 +40028,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Support|Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -38392,6 +40060,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -38407,7 +40076,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -38438,6 +40108,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder",
@@ -38453,7 +40124,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -38484,6 +40156,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -38499,7 +40172,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -38530,6 +40204,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -38545,7 +40220,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -38576,6 +40252,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -38591,7 +40268,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -38622,6 +40300,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -38637,7 +40316,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Front-end Developer|Back-end Developer|Sales|Support|DevOps/SysAdmin|Supervisor/Team Lead|Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -38668,6 +40348,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -38683,7 +40364,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "One-person shop|Front-end Developer|Back-end Developer|Support|Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -38714,6 +40396,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -38729,7 +40412,8 @@ var data = [
    "CountryWork": "Poland",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -38760,6 +40444,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -38775,7 +40460,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Dev Evangelist/Advocate|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -38806,6 +40492,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder",
@@ -38821,7 +40508,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "South Dakota",
    "Position": "One-person shop|Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -38852,6 +40540,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -38867,7 +40556,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Nebraska",
    "Position": "Supervisor/Team Lead|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -38898,6 +40588,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -38913,7 +40604,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -38944,6 +40636,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Dissociative Disorder",
@@ -38959,7 +40652,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Support",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -38990,6 +40684,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -39005,7 +40700,8 @@ var data = [
    "CountryWork": "Bulgaria",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -39036,6 +40732,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -39051,7 +40748,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Supervisor/Team Lead|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -39082,6 +40780,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Substance Use Disorder|Addictive Disorder",
@@ -39097,7 +40796,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oklahoma",
    "Position": "One-person shop",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -39128,6 +40828,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -39143,7 +40844,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "One-person shop|Designer|Front-end Developer|Back-end Developer|Sales|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -39174,6 +40876,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -39189,7 +40892,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Designer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -39220,6 +40924,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -39235,7 +40940,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -39266,6 +40972,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)",
@@ -39281,7 +40988,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -39312,6 +41020,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -39327,7 +41036,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New Hampshire",
    "Position": "Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -39358,6 +41068,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -39373,7 +41084,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -39404,6 +41116,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Post-traumatic Stress Disorder",
@@ -39419,7 +41132,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -39450,6 +41164,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -39465,7 +41180,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Sales",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -39496,6 +41212,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -39511,7 +41228,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -39542,6 +41260,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -39557,7 +41276,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -39588,6 +41308,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -39603,7 +41324,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -39634,6 +41356,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -39649,7 +41372,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -39680,6 +41404,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -39695,7 +41420,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -39726,6 +41452,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -39741,7 +41468,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Other|DevOps/SysAdmin|Support|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -39772,6 +41500,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -39787,7 +41516,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Maine",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -39818,6 +41548,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -39833,7 +41564,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -39864,6 +41596,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -39879,7 +41612,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Supervisor/Team Lead|Back-end Developer|Support|DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -39910,6 +41644,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -39925,7 +41660,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "One-person shop|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -39956,6 +41692,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -39971,7 +41708,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Kansas",
    "Position": "Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -40002,6 +41740,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -40017,7 +41756,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -40048,6 +41788,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -40063,7 +41804,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -40094,6 +41836,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -40109,7 +41852,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Designer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -40140,6 +41884,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -40155,7 +41900,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Arizona",
    "Position": "Designer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -40186,6 +41932,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -40201,7 +41948,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -40232,6 +41980,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -40247,7 +41996,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -40278,6 +42028,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -40293,7 +42044,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -40324,6 +42076,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -40339,7 +42092,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -40370,6 +42124,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -40385,7 +42140,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -40416,6 +42172,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -40431,7 +42188,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -40462,6 +42220,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -40477,7 +42236,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -40508,6 +42268,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -40523,7 +42284,8 @@ var data = [
    "CountryWork": "Other",
    "StateWork": "",
    "Position": "Support|Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -40554,6 +42316,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -40569,7 +42332,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Maryland",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -40600,6 +42364,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -40615,7 +42380,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "District of Columbia",
    "Position": "Support|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -40646,6 +42412,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -40661,7 +42428,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -40692,6 +42460,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -40707,7 +42476,8 @@ var data = [
    "CountryWork": "France",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -40738,6 +42508,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -40753,7 +42524,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -40784,6 +42556,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -40799,7 +42572,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Dev Evangelist/Advocate|One-person shop|Back-end Developer|Support|DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -40830,6 +42604,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -40845,7 +42620,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "District of Columbia",
    "Position": "Other|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -40876,6 +42652,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -40891,7 +42668,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Executive Leadership|Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -40922,6 +42700,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder",
@@ -40937,7 +42716,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -40968,6 +42748,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -40983,7 +42764,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -41014,6 +42796,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -41029,7 +42812,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "One-person shop|Designer|Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin|Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -41060,6 +42844,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -41075,7 +42860,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -41106,6 +42892,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -41121,7 +42908,8 @@ var data = [
    "CountryWork": "Iran",
    "StateWork": "",
    "Position": "Other|Dev Evangelist/Advocate|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -41152,6 +42940,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -41167,7 +42956,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -41198,6 +42988,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -41213,7 +43004,8 @@ var data = [
    "CountryWork": "Switzerland",
    "StateWork": "",
    "Position": "Support|Designer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -41244,6 +43036,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -41259,7 +43052,8 @@ var data = [
    "CountryWork": "Switzerland",
    "StateWork": "",
    "Position": "Designer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -41290,6 +43084,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -41305,7 +43100,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -41336,6 +43132,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -41351,7 +43148,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Other|Dev Evangelist/Advocate|Support",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -41382,6 +43180,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -41397,7 +43196,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oklahoma",
    "Position": "One-person shop|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -41428,6 +43228,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -41443,7 +43244,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -41474,6 +43276,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Post-traumatic Stress Disorder",
@@ -41489,7 +43292,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "One-person shop|Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -41520,6 +43324,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -41535,7 +43340,8 @@ var data = [
    "CountryWork": "Austria",
    "StateWork": "",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -41566,6 +43372,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -41581,7 +43388,8 @@ var data = [
    "CountryWork": "Ireland",
    "StateWork": "",
    "Position": "Designer|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -41612,6 +43420,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -41627,7 +43436,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -41658,6 +43468,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "",
@@ -41673,7 +43484,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -41704,6 +43516,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -41719,7 +43532,8 @@ var data = [
    "CountryWork": "South Africa",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -41750,6 +43564,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -41765,7 +43580,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Wisconsin",
    "Position": "Front-end Developer|Support",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -41796,6 +43612,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Post-traumatic Stress Disorder",
@@ -41811,7 +43628,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -41842,6 +43660,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -41857,7 +43676,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "One-person shop|Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -41888,6 +43708,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -41903,7 +43724,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -41934,6 +43756,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -41949,7 +43772,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Executive Leadership|Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -41980,6 +43804,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -41995,7 +43820,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Executive Leadership",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -42026,6 +43852,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -42041,7 +43868,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Designer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -42072,6 +43900,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -42087,7 +43916,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "One-person shop|Designer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -42118,6 +43948,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Substance Use Disorder",
@@ -42133,7 +43964,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -42164,6 +43996,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -42179,7 +44012,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -42210,6 +44044,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -42225,7 +44060,8 @@ var data = [
    "CountryWork": "India",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -42256,6 +44092,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -42271,7 +44108,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -42302,6 +44140,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -42317,7 +44156,8 @@ var data = [
    "CountryWork": "France",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -42348,6 +44188,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Obsessive-Compulsive Disorder",
@@ -42363,7 +44204,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -42394,6 +44236,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -42409,7 +44252,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -42440,6 +44284,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -42455,7 +44300,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -42486,6 +44332,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -42501,7 +44348,8 @@ var data = [
    "CountryWork": "France",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -42532,6 +44380,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -42547,7 +44396,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -42578,6 +44428,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -42593,7 +44444,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -42624,6 +44476,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -42639,7 +44492,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -42670,6 +44524,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -42685,7 +44540,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer|Designer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -42716,6 +44572,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -42731,7 +44588,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -42762,6 +44620,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -42777,7 +44636,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -42808,6 +44668,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -42823,7 +44684,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New Jersey",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -42854,6 +44716,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -42869,7 +44732,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -42900,6 +44764,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -42915,7 +44780,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Front-end Developer|Back-end Developer|Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -42946,6 +44812,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -42961,7 +44828,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -42992,6 +44860,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -43007,7 +44876,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -43038,6 +44908,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -43053,7 +44924,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Executive Leadership|Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -43084,6 +44956,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -43099,7 +44972,8 @@ var data = [
    "CountryWork": "Italy",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -43130,6 +45004,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -43145,7 +45020,8 @@ var data = [
    "CountryWork": "Bulgaria",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|Supervisor/Team Lead|Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -43176,6 +45052,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -43191,7 +45068,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -43222,6 +45100,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -43237,7 +45116,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -43268,6 +45148,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -43283,7 +45164,8 @@ var data = [
    "CountryWork": "Switzerland",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -43314,6 +45196,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -43329,7 +45212,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -43360,6 +45244,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)",
@@ -43375,7 +45260,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -43406,6 +45292,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -43421,7 +45308,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -43452,6 +45340,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -43467,7 +45356,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -43498,6 +45388,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -43513,7 +45404,8 @@ var data = [
    "CountryWork": "Hungary",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -43544,6 +45436,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -43559,7 +45452,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Executive Leadership|Supervisor/Team Lead|Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -43590,6 +45484,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -43605,7 +45500,8 @@ var data = [
    "CountryWork": "France",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -43636,6 +45532,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -43651,7 +45548,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -43682,6 +45580,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -43697,7 +45596,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -43728,6 +45628,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -43743,7 +45644,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -43774,6 +45676,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -43789,7 +45692,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -43820,6 +45724,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -43835,7 +45740,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Georgia",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -43866,6 +45772,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -43881,7 +45788,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -43912,6 +45820,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -43927,7 +45836,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Other|DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -43958,6 +45868,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -43973,7 +45884,8 @@ var data = [
    "CountryWork": "Israel",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44004,6 +45916,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -44019,7 +45932,8 @@ var data = [
    "CountryWork": "Japan",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Front-end Developer|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -44050,6 +45964,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -44065,7 +45980,8 @@ var data = [
    "CountryWork": "India",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44096,6 +46012,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -44111,7 +46028,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44142,6 +46060,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -44157,7 +46076,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Maryland",
    "Position": "Other|Back-end Developer|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44188,6 +46108,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -44203,7 +46124,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44234,6 +46156,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Post-traumatic Stress Disorder",
@@ -44249,7 +46172,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Utah",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -44280,6 +46204,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -44295,7 +46220,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead|Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44326,6 +46252,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -44341,7 +46268,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44372,6 +46300,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -44387,7 +46316,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "Front-end Developer|Designer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44418,6 +46348,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -44433,7 +46364,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44464,6 +46396,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -44479,7 +46412,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44510,6 +46444,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -44525,7 +46460,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44556,6 +46492,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Post-traumatic Stress Disorder|Substance Use Disorder",
@@ -44571,7 +46508,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Supervisor/Team Lead|Support|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44602,6 +46540,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -44617,7 +46556,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44648,6 +46588,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -44663,7 +46604,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44694,6 +46636,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -44709,7 +46652,8 @@ var data = [
    "CountryWork": "Ireland",
    "StateWork": "",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44740,6 +46684,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -44755,7 +46700,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Support|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44786,6 +46732,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -44801,7 +46748,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Utah",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44832,6 +46780,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -44847,7 +46796,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44878,6 +46828,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -44893,7 +46844,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Utah",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44924,6 +46876,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -44939,7 +46892,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -44970,6 +46924,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -44985,7 +46940,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45016,6 +46972,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -45031,7 +46988,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45062,6 +47020,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -45077,7 +47036,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45108,6 +47068,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -45123,7 +47084,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45154,6 +47116,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -45169,7 +47132,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45200,6 +47164,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Substance Use Disorder|Addictive Disorder",
@@ -45215,7 +47180,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -45246,6 +47212,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -45261,7 +47228,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45292,6 +47260,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -45307,7 +47276,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Support|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45338,6 +47308,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -45353,7 +47324,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -45384,6 +47356,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -45399,7 +47372,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Sales|Support|DevOps/SysAdmin|Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45430,6 +47404,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Stress Response Syndromes",
@@ -45445,7 +47420,8 @@ var data = [
    "CountryWork": "Bulgaria",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45476,6 +47452,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -45491,7 +47468,8 @@ var data = [
    "CountryWork": "Switzerland",
    "StateWork": "",
    "Position": "Executive Leadership|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -45522,6 +47500,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -45537,7 +47516,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45568,6 +47548,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)",
@@ -45583,7 +47564,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45614,6 +47596,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -45629,7 +47612,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45660,6 +47644,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -45675,7 +47660,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45706,6 +47692,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -45721,7 +47708,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45752,6 +47740,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -45767,7 +47756,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "DevOps/SysAdmin|Support|Front-end Developer|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45798,6 +47788,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -45813,7 +47804,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Montana",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45844,6 +47836,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Stress Response Syndromes",
@@ -45859,7 +47852,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45890,6 +47884,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder",
@@ -45905,7 +47900,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Designer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45936,6 +47932,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -45951,7 +47948,8 @@ var data = [
    "CountryWork": "Brazil",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -45982,6 +47980,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Stress Response Syndromes|Sleeping Disorder",
@@ -45997,7 +47996,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -46028,6 +48028,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Attention Deficit Hyperactivity Disorder",
@@ -46043,7 +48044,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "One-person shop|Back-end Developer|Dev Evangelist/Advocate",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -46074,6 +48076,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -46089,7 +48092,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -46120,6 +48124,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -46135,7 +48140,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -46166,6 +48172,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -46181,7 +48188,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Dev Evangelist/Advocate|Back-end Developer|Designer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -46212,6 +48220,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder",
@@ -46227,7 +48236,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Supervisor/Team Lead|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -46258,6 +48268,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -46273,7 +48284,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -46304,6 +48316,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -46319,7 +48332,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -46350,6 +48364,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -46365,7 +48380,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Supervisor/Team Lead|Support|Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -46396,6 +48412,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -46411,7 +48428,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -46442,6 +48460,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -46457,7 +48476,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -46488,6 +48508,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -46503,7 +48524,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Front-end Developer|Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -46534,6 +48556,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -46549,7 +48572,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -46580,6 +48604,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -46595,7 +48620,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -46626,6 +48652,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -46641,7 +48668,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Wisconsin",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -46672,6 +48700,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -46687,7 +48716,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Other|Dev Evangelist/Advocate",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -46718,6 +48748,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -46733,7 +48764,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Back-end Developer|Supervisor/Team Lead|Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -46764,6 +48796,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder",
@@ -46779,7 +48812,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -46810,6 +48844,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -46825,7 +48860,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -46856,6 +48892,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -46871,7 +48908,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|Dev Evangelist/Advocate|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -46902,6 +48940,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "I haven't been formally diagnosed, so I felt uncomfortable answering, but Social Anxiety and Depression.",
@@ -46917,7 +48956,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -46948,6 +48988,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -46963,7 +49004,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Other|Support",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -46994,6 +49036,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -47009,7 +49052,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Missouri",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -47040,6 +49084,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -47055,7 +49100,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -47086,6 +49132,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -47101,7 +49148,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -47132,6 +49180,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -47147,7 +49196,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -47178,6 +49228,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -47193,7 +49244,8 @@ var data = [
    "CountryWork": "Russia",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -47224,6 +49276,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -47239,7 +49292,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -47270,6 +49324,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Stress Response Syndromes",
@@ -47285,7 +49340,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead|Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -47316,6 +49372,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -47331,7 +49388,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin|Executive Leadership",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -47362,6 +49420,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -47377,7 +49436,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -47408,6 +49468,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -47423,7 +49484,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -47454,6 +49516,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)|Post-traumatic Stress Disorder",
@@ -47469,7 +49532,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -47500,6 +49564,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -47515,7 +49580,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Georgia",
    "Position": "Other|Supervisor/Team Lead|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -47546,6 +49612,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -47561,7 +49628,8 @@ var data = [
    "CountryWork": "Ireland",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -47592,6 +49660,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -47607,7 +49676,8 @@ var data = [
    "CountryWork": "New Zealand",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -47638,6 +49708,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -47653,7 +49724,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other|Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -47684,6 +49756,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -47699,7 +49772,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -47730,6 +49804,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -47745,7 +49820,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -47776,6 +49852,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -47791,7 +49868,8 @@ var data = [
    "CountryWork": "New Zealand",
    "StateWork": "",
    "Position": "Front-end Developer|One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -47822,6 +49900,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -47837,7 +49916,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -47868,6 +49948,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -47883,7 +49964,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -47914,6 +49996,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -47929,7 +50012,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -47960,6 +50044,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -47975,7 +50060,8 @@ var data = [
    "CountryWork": "Ecuador",
    "StateWork": "",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -48006,6 +50092,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -48021,7 +50108,8 @@ var data = [
    "CountryWork": "South Africa",
    "StateWork": "",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -48052,6 +50140,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -48067,7 +50156,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -48098,6 +50188,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -48113,7 +50204,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -48144,6 +50236,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Addictive Disorder",
@@ -48159,7 +50252,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -48190,6 +50284,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -48205,7 +50300,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -48236,6 +50332,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Eating Disorder (Anorexia, Bulimia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -48251,7 +50348,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -48282,6 +50380,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -48297,7 +50396,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -48328,6 +50428,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -48343,7 +50444,8 @@ var data = [
    "CountryWork": "Italy",
    "StateWork": "",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -48374,6 +50476,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -48389,7 +50492,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -48420,6 +50524,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -48435,7 +50540,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Designer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -48466,6 +50572,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -48481,7 +50588,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|HR",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -48512,6 +50620,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Personality Disorder (Borderline, Antisocial, Paranoid, etc)",
@@ -48527,7 +50636,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -48558,6 +50668,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -48573,7 +50684,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Designer|Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -48604,6 +50716,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -48619,7 +50732,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Virginia",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -48650,6 +50764,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -48665,7 +50780,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -48696,6 +50812,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -48711,7 +50828,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -48742,6 +50860,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "",
@@ -48757,7 +50876,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -48788,6 +50908,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -48803,7 +50924,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "One-person shop|Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -48834,6 +50956,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -48849,7 +50972,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -48880,6 +51004,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -48895,7 +51020,8 @@ var data = [
    "CountryWork": "Switzerland",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -48926,6 +51052,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -48941,7 +51068,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -48972,6 +51100,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -48987,7 +51116,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -49018,6 +51148,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Obsessive-Compulsive Disorder",
@@ -49033,7 +51164,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -49064,6 +51196,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder|Post-traumatic Stress Disorder|Substance Use Disorder",
@@ -49079,7 +51212,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -49110,6 +51244,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -49125,7 +51260,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other|Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -49156,6 +51292,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -49171,7 +51308,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -49202,6 +51340,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -49217,7 +51356,8 @@ var data = [
    "CountryWork": "Bulgaria",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -49248,6 +51388,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -49263,7 +51404,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -49294,6 +51436,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -49309,7 +51452,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Maryland",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -49340,6 +51484,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -49355,7 +51500,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Support|Sales|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -49386,6 +51532,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -49401,7 +51548,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New Hampshire",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -49432,6 +51580,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -49447,7 +51596,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -49478,6 +51628,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -49493,7 +51644,8 @@ var data = [
    "CountryWork": "New Zealand",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -49524,6 +51676,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -49539,7 +51692,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|Support|Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -49570,6 +51724,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -49585,7 +51740,8 @@ var data = [
    "CountryWork": "Switzerland",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -49616,6 +51772,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -49631,7 +51788,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New Mexico",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -49662,6 +51820,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -49677,7 +51836,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -49708,6 +51868,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -49723,7 +51884,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Wisconsin",
    "Position": "DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -49754,6 +51916,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Obsessive-Compulsive Disorder|Stress Response Syndromes",
@@ -49769,7 +51932,8 @@ var data = [
    "CountryWork": "Brazil",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -49800,6 +51964,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Obsessive-Compulsive Disorder|Post-traumatic Stress Disorder",
@@ -49815,7 +51980,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -49846,6 +52012,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -49861,7 +52028,8 @@ var data = [
    "CountryWork": "Bulgaria",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -49892,6 +52060,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -49907,7 +52076,8 @@ var data = [
    "CountryWork": "Romania",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -49938,6 +52108,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -49953,7 +52124,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Iowa",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -49984,6 +52156,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -49999,7 +52172,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Kentucky",
    "Position": "One-person shop|Designer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -50030,6 +52204,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Obsessive-Compulsive Disorder",
@@ -50045,7 +52220,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New Jersey",
    "Position": "Other|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -50076,6 +52252,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -50091,7 +52268,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "One-person shop|Designer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -50122,6 +52300,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -50137,7 +52316,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Executive Leadership",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -50168,6 +52348,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -50183,7 +52364,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Kentucky",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -50214,6 +52396,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Attention Deficit Hyperactivity Disorder|Post-traumatic Stress Disorder",
@@ -50229,7 +52412,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -50260,6 +52444,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder",
@@ -50275,7 +52460,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -50306,6 +52492,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -50321,7 +52508,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Executive Leadership|Supervisor/Team Lead|Support|Sales|Designer|Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -50352,6 +52540,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -50367,7 +52556,8 @@ var data = [
    "CountryWork": "Australia",
    "StateWork": "",
    "Position": "Other|Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -50398,6 +52588,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Substance Use Disorder|Addictive Disorder",
@@ -50413,7 +52604,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Other|Front-end Developer|Designer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -50444,6 +52636,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -50459,7 +52652,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -50490,6 +52684,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -50505,7 +52700,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -50536,6 +52732,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -50551,7 +52748,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -50582,6 +52780,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -50597,7 +52796,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -50628,6 +52828,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Obsessive-Compulsive Disorder",
@@ -50643,7 +52844,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -50674,6 +52876,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -50689,7 +52892,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Support",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -50720,6 +52924,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -50735,7 +52940,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -50766,6 +52972,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Substance Use Disorder",
@@ -50781,7 +52988,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Idaho",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -50812,6 +53020,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -50827,7 +53036,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New Mexico",
    "Position": "Front-end Developer|Designer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -50858,6 +53068,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -50873,7 +53084,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -50904,6 +53116,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Autism Spectrum Disorder",
@@ -50919,7 +53132,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -50950,6 +53164,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Post-traumatic Stress Disorder|Dissociative Disorder|Substance Use Disorder|Addictive Disorder",
@@ -50965,7 +53180,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "DevOps/SysAdmin|Support|Sales|Front-end Developer|Designer|One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -50996,6 +53212,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -51011,7 +53228,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer|One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51042,6 +53260,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -51057,7 +53276,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Georgia",
    "Position": "Supervisor/Team Lead|Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51088,6 +53308,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -51103,7 +53324,8 @@ var data = [
    "CountryWork": "Bosnia and Herzegovina",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51134,6 +53356,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -51149,7 +53372,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Other|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51180,6 +53404,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -51195,7 +53420,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51226,6 +53452,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -51241,7 +53468,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51272,6 +53500,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Obsessive-Compulsive Disorder|Substance Use Disorder",
@@ -51287,7 +53516,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51318,6 +53548,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -51333,7 +53564,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51364,6 +53596,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -51379,7 +53612,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51410,6 +53644,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -51425,7 +53660,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Support|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51456,6 +53692,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder",
@@ -51471,7 +53708,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51502,6 +53740,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -51517,7 +53756,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51548,6 +53788,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -51563,7 +53804,8 @@ var data = [
    "CountryWork": "Bosnia and Herzegovina",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51594,6 +53836,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -51609,7 +53852,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51640,6 +53884,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Attention Deficit Hyperactivity Disorder",
@@ -51655,7 +53900,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51686,6 +53932,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -51701,7 +53948,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -51732,6 +53980,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -51747,7 +53996,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51778,6 +54028,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -51793,7 +54044,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51824,6 +54076,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -51839,7 +54092,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51870,6 +54124,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -51885,7 +54140,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Supervisor/Team Lead|Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51916,6 +54172,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -51931,7 +54188,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -51962,6 +54220,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -51977,7 +54236,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52008,6 +54268,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -52023,7 +54284,8 @@ var data = [
    "CountryWork": "Finland",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52054,6 +54316,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -52069,7 +54332,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52100,6 +54364,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Obsessive-Compulsive Disorder",
@@ -52115,7 +54380,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52146,6 +54412,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -52161,7 +54428,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52192,6 +54460,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)",
@@ -52207,7 +54476,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52238,6 +54508,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -52253,7 +54524,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "South Dakota",
    "Position": "Support",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52284,6 +54556,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -52299,7 +54572,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52330,6 +54604,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -52345,7 +54620,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -52376,6 +54652,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Obsessive-Compulsive Disorder|Stress Response Syndromes|Addictive Disorder",
@@ -52391,7 +54668,8 @@ var data = [
    "CountryWork": "Ireland",
    "StateWork": "",
    "Position": "Other|Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52422,6 +54700,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -52437,7 +54716,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Back-end Developer|Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -52468,6 +54748,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -52483,7 +54764,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Other|One-person shop|Designer|Front-end Developer|Back-end Developer|Support|Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52514,6 +54796,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -52529,7 +54812,8 @@ var data = [
    "CountryWork": "Austria",
    "StateWork": "",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52560,6 +54844,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -52575,7 +54860,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52606,6 +54892,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -52621,7 +54908,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52652,6 +54940,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -52667,7 +54956,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Supervisor/Team Lead|Support|Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52698,6 +54988,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -52713,7 +55004,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Supervisor/Team Lead|Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52744,6 +55036,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -52759,7 +55052,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Virginia",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52790,6 +55084,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -52805,7 +55100,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Alabama",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52836,6 +55132,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -52851,7 +55148,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52882,6 +55180,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -52897,7 +55196,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52928,6 +55228,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -52943,7 +55244,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oklahoma",
    "Position": "Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -52974,6 +55276,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -52989,7 +55292,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53020,6 +55324,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -53035,7 +55340,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "DevOps/SysAdmin|Support|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53066,6 +55372,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -53081,7 +55388,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53112,6 +55420,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -53127,7 +55436,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oklahoma",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53158,6 +55468,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -53173,7 +55484,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Alaska",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53204,6 +55516,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Obsessive-Compulsive Disorder",
@@ -53219,7 +55532,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Delaware",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53250,6 +55564,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -53265,7 +55580,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oklahoma",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53296,6 +55612,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -53311,7 +55628,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Alaska",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53342,6 +55660,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -53357,7 +55676,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oklahoma",
    "Position": "DevOps/SysAdmin|Support|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53388,6 +55708,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -53403,7 +55724,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oklahoma",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53434,6 +55756,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -53449,7 +55772,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Other|Supervisor/Team Lead|DevOps/SysAdmin|Support|Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53480,6 +55804,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -53495,7 +55820,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53526,6 +55852,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -53541,7 +55868,8 @@ var data = [
    "CountryWork": "Brazil",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53572,6 +55900,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -53587,7 +55916,8 @@ var data = [
    "CountryWork": "New Zealand",
    "StateWork": "",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53618,6 +55948,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -53633,7 +55964,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53664,6 +55996,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -53679,7 +56012,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53710,6 +56044,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder",
@@ -53725,7 +56060,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53756,6 +56092,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -53771,7 +56108,8 @@ var data = [
    "CountryWork": "Ireland",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53802,6 +56140,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -53817,7 +56156,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53848,6 +56188,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -53863,7 +56204,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Supervisor/Team Lead|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -53894,6 +56236,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -53909,7 +56252,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -53940,6 +56284,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Psychotic Disorder (Schizophrenia, Schizoaffective, etc)",
@@ -53955,7 +56300,8 @@ var data = [
    "CountryWork": "Ireland",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -53986,6 +56332,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -54001,7 +56348,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Nebraska",
    "Position": "Back-end Developer|Support|Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54032,6 +56380,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Transgender|Mood Disorder (Depression, Bipolar Disorder, etc)|Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -54047,7 +56396,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Back-end Developer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54078,6 +56428,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Post-traumatic Stress Disorder",
@@ -54093,7 +56444,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54124,6 +56476,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -54139,7 +56492,8 @@ var data = [
    "CountryWork": "Finland",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54170,6 +56524,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -54185,7 +56540,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54216,6 +56572,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -54231,7 +56588,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Georgia",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54262,6 +56620,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -54277,7 +56636,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New Jersey",
    "Position": "Supervisor/Team Lead|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -54308,6 +56668,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)|Attention Deficit Hyperactivity Disorder|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Obsessive-Compulsive Disorder|Post-traumatic Stress Disorder|Stress Response Syndromes",
@@ -54323,7 +56684,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54354,6 +56716,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -54369,7 +56732,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54400,6 +56764,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -54415,7 +56780,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Designer|Front-end Developer|Back-end Developer|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54446,6 +56812,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -54461,7 +56828,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer|One-person shop",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54492,6 +56860,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -54507,7 +56876,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54538,6 +56908,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -54553,7 +56924,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54584,6 +56956,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -54599,7 +56972,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54630,6 +57004,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -54645,7 +57020,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "DevOps/SysAdmin|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54676,6 +57052,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -54691,7 +57068,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -54722,6 +57100,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder",
@@ -54737,7 +57116,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Vermont",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54768,6 +57148,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -54783,7 +57164,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54814,6 +57196,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -54829,7 +57212,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Dakota",
    "Position": "Support|Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54860,6 +57244,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -54875,7 +57260,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54906,6 +57292,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -54921,7 +57308,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -54952,6 +57340,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Post-traumatic Stress Disorder",
@@ -54967,7 +57356,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Other|Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -54998,6 +57388,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -55013,7 +57404,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -55044,6 +57436,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -55059,7 +57452,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -55090,6 +57484,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -55105,7 +57500,8 @@ var data = [
    "CountryWork": "Ireland",
    "StateWork": "",
    "Position": "One-person shop|Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -55136,6 +57532,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Obsessive-Compulsive Disorder",
@@ -55151,7 +57548,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Front-end Developer|Designer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -55182,6 +57580,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -55197,7 +57596,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -55228,6 +57628,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -55243,7 +57644,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -55274,6 +57676,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -55289,7 +57692,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -55320,6 +57724,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -55335,7 +57740,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -55366,6 +57772,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -55381,7 +57788,8 @@ var data = [
    "CountryWork": "Finland",
    "StateWork": "",
    "Position": "Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -55412,6 +57820,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder",
@@ -55427,7 +57836,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -55458,6 +57868,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -55473,7 +57884,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -55504,6 +57916,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -55519,7 +57932,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Supervisor/Team Lead|Designer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -55550,6 +57964,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -55565,7 +57980,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -55596,6 +58012,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)",
@@ -55611,7 +58028,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -55642,6 +58060,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -55657,7 +58076,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -55688,6 +58108,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -55703,7 +58124,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -55734,6 +58156,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -55749,7 +58172,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -55780,6 +58204,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -55795,7 +58220,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -55826,6 +58252,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Attention Deficit Hyperactivity Disorder",
@@ -55841,7 +58268,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -55872,6 +58300,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -55887,7 +58316,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -55918,6 +58348,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Dissociative Disorder|Autism",
@@ -55933,7 +58364,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Maryland",
    "Position": "Support|Back-end Developer|Front-end Developer|One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -55964,6 +58396,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -55979,7 +58412,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -56010,6 +58444,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -56025,7 +58460,8 @@ var data = [
    "CountryWork": "China",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -56056,6 +58492,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -56071,7 +58508,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -56102,6 +58540,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Attention Deficit Hyperactivity Disorder",
@@ -56117,7 +58556,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -56148,6 +58588,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -56163,7 +58604,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -56194,6 +58636,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Obsessive-Compulsive Disorder",
@@ -56209,7 +58652,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Dev Evangelist/Advocate|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -56240,6 +58684,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -56255,7 +58700,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -56286,6 +58732,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -56301,7 +58748,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -56332,6 +58780,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -56347,7 +58796,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -56378,6 +58828,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -56393,7 +58844,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -56424,6 +58876,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -56439,7 +58892,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -56470,6 +58924,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)|Attention Deficit Hyperactivity Disorder|Personality Disorder (Borderline, Antisocial, Paranoid, etc)",
@@ -56485,7 +58940,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Wisconsin",
    "Position": "Front-end Developer|Designer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -56516,6 +58972,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Substance Use Disorder",
@@ -56531,7 +58988,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -56562,6 +59020,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -56577,7 +59036,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -56608,6 +59068,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -56623,7 +59084,8 @@ var data = [
    "CountryWork": "Ireland",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -56654,6 +59116,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Attention Deficit Hyperactivity Disorder",
@@ -56669,7 +59132,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Alabama",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -56700,6 +59164,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -56715,7 +59180,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Back-end Developer|Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -56746,6 +59212,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Attention Deficit Hyperactivity Disorder|Stress Response Syndromes",
@@ -56761,7 +59228,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -56792,6 +59260,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -56807,7 +59276,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New Mexico",
    "Position": "Supervisor/Team Lead|Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -56838,6 +59308,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder",
@@ -56853,7 +59324,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Wisconsin",
    "Position": "Front-end Developer|Designer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -56884,6 +59356,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -56899,7 +59372,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -56930,6 +59404,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -56945,7 +59420,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Maryland",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -56976,6 +59452,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -56991,7 +59468,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -57022,6 +59500,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -57037,7 +59516,8 @@ var data = [
    "CountryWork": "Switzerland",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -57068,6 +59548,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -57083,7 +59564,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -57114,6 +59596,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -57129,7 +59612,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -57160,6 +59644,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -57175,7 +59660,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -57206,6 +59692,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -57221,7 +59708,8 @@ var data = [
    "CountryWork": "Israel",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -57252,6 +59740,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -57267,7 +59756,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer|Dev Evangelist/Advocate|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -57298,6 +59788,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -57313,7 +59804,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -57344,6 +59836,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -57359,7 +59852,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -57390,6 +59884,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Addictive Disorder|Intimate Disorder",
@@ -57405,7 +59900,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Other|One-person shop|Designer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -57436,6 +59932,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Dissociative Disorder|Autism",
@@ -57451,7 +59948,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Maryland",
    "Position": "Support|Back-end Developer|Front-end Developer|One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -57482,6 +59980,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -57497,7 +59996,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -57528,6 +60028,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -57543,7 +60044,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Iowa",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -57574,6 +60076,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)",
@@ -57589,7 +60092,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -57620,6 +60124,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -57635,7 +60140,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "One-person shop|Designer|Sales|Support|Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -57666,6 +60172,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -57681,7 +60188,8 @@ var data = [
    "CountryWork": "Denmark",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -57712,6 +60220,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -57727,7 +60236,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer|Front-end Developer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -57758,6 +60268,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -57773,7 +60284,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Support|Back-end Developer|One-person shop|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -57804,6 +60316,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -57819,7 +60332,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Wisconsin",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -57850,6 +60364,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -57865,7 +60380,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -57896,6 +60412,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -57911,7 +60428,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -57942,6 +60460,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -57957,7 +60476,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -57988,6 +60508,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -58003,7 +60524,8 @@ var data = [
    "CountryWork": "Mexico",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -58034,6 +60556,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder",
@@ -58049,7 +60572,8 @@ var data = [
    "CountryWork": "Sweden",
    "StateWork": "",
    "Position": "Support|Sales|Back-end Developer|Front-end Developer|Designer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -58080,6 +60604,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -58095,7 +60620,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "One-person shop|Designer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -58126,6 +60652,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -58141,7 +60668,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "Dev Evangelist/Advocate|DevOps/SysAdmin|Designer|Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -58172,6 +60700,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -58187,7 +60716,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -58218,6 +60748,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Obsessive-Compulsive Disorder|Addictive Disorder",
@@ -58233,7 +60764,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -58264,6 +60796,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -58279,7 +60812,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Minnesota",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -58310,6 +60844,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -58325,7 +60860,8 @@ var data = [
    "CountryWork": "Romania",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -58356,6 +60892,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -58371,7 +60908,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Other|DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -58402,6 +60940,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -58417,7 +60956,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Utah",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -58448,6 +60988,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -58463,7 +61004,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -58494,6 +61036,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -58509,7 +61052,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -58540,6 +61084,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -58555,7 +61100,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -58586,6 +61132,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder|Substance Use Disorder",
@@ -58601,7 +61148,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -58632,6 +61180,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -58647,7 +61196,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -58678,6 +61228,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -58693,7 +61244,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -58724,6 +61276,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -58739,7 +61292,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -58770,6 +61324,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)|Attention Deficit Hyperactivity Disorder|Post-traumatic Stress Disorder",
@@ -58785,7 +61340,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Other|Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -58816,6 +61372,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -58831,7 +61388,8 @@ var data = [
    "CountryWork": "Denmark",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -58862,6 +61420,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Stress Response Syndromes",
@@ -58877,7 +61436,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Back-end Developer|One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -58908,6 +61468,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Stress Response Syndromes",
@@ -58923,7 +61484,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -58954,6 +61516,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -58969,7 +61532,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -59000,6 +61564,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -59015,7 +61580,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -59046,6 +61612,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -59061,7 +61628,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -59092,6 +61660,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -59107,7 +61676,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -59138,6 +61708,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -59153,7 +61724,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -59184,6 +61756,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -59199,7 +61772,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Supervisor/Team Lead|Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -59230,6 +61804,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -59245,7 +61820,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -59276,6 +61852,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -59291,7 +61868,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -59322,6 +61900,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -59337,7 +61916,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "Support|Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -59368,6 +61948,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -59383,7 +61964,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other|Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -59414,6 +61996,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -59429,7 +62012,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -59460,6 +62044,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -59469,13 +62054,14 @@ var data = [
    "InterfereTreated": "Not applicable to me",
    "InterfereNotTreated": "Sometimes",
    "Age": 20,
-   "Gender": "female-bodied; no feelings about gender",
-   "CountryLive": "Canada",
-   "StateLive": "",
-   "CountryWork": "Canada",
-   "StateWork": "",
-   "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Gender": "female-bodied",
+   "CountryLive": " no feelings about gender",
+   "StateLive": "Canada",
+   "CountryWork": "",
+   "StateWork": "Canada",
+   "Position": "",
+   "Remote": "Back-end Developer",
+   "FIELD46": "Never"
  },
  {
    "SelfEmp": 1,
@@ -59506,6 +62092,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -59521,7 +62108,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Wisconsin",
    "Position": "One-person shop",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -59552,6 +62140,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -59567,7 +62156,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Utah",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -59598,6 +62188,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -59613,7 +62204,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Sales",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -59644,6 +62236,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -59659,7 +62252,8 @@ var data = [
    "CountryWork": "Spain",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -59690,6 +62284,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -59705,7 +62300,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -59736,6 +62332,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -59751,7 +62348,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -59782,6 +62380,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -59797,7 +62396,8 @@ var data = [
    "CountryWork": "Austria",
    "StateWork": "",
    "Position": "Designer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -59828,6 +62428,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Personality Disorder (Borderline, Antisocial, Paranoid, etc)",
@@ -59843,7 +62444,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -59874,6 +62476,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -59889,7 +62492,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Executive Leadership|Supervisor/Team Lead|Dev Evangelist/Advocate|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -59920,6 +62524,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -59935,7 +62540,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -59966,6 +62572,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Post-traumatic Stress Disorder|Substance Use Disorder",
@@ -59981,7 +62588,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Louisiana",
    "Position": "Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -60012,6 +62620,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -60027,7 +62636,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -60058,6 +62668,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -60073,7 +62684,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "One-person shop|Designer|Sales|Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -60104,6 +62716,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -60119,7 +62732,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -60150,6 +62764,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Obsessive-Compulsive Disorder",
@@ -60165,7 +62780,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Tennessee",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -60196,6 +62812,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -60211,7 +62828,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -60242,6 +62860,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -60257,7 +62876,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -60288,6 +62908,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -60303,7 +62924,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Missouri",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -60334,6 +62956,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder",
@@ -60349,7 +62972,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -60380,6 +63004,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Obsessive-Compulsive Disorder",
@@ -60395,7 +63020,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Support|Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -60426,6 +63052,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -60441,7 +63068,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Connecticut",
    "Position": "Supervisor/Team Lead|Support|One-person shop|Designer|Front-end Developer|Sales",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -60472,6 +63100,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -60487,7 +63116,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Ohio",
    "Position": "Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -60518,6 +63148,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -60533,7 +63164,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "One-person shop|Designer|Support",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -60564,6 +63196,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -60579,7 +63212,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -60610,6 +63244,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -60625,7 +63260,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -60656,6 +63292,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -60671,7 +63308,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Connecticut",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -60702,6 +63340,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -60717,7 +63356,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Florida",
    "Position": "Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -60748,6 +63388,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Addictive Disorder",
@@ -60763,7 +63404,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -60794,6 +63436,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -60809,7 +63452,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -60840,6 +63484,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -60855,7 +63500,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Virginia",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -60886,6 +63532,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -60901,7 +63548,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Supervisor/Team Lead|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -60932,6 +63580,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -60947,7 +63596,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -60978,6 +63628,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)",
@@ -60993,7 +63644,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Missouri",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -61024,6 +63676,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -61039,7 +63692,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "Other|Front-end Developer|Designer|One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -61070,6 +63724,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Post-traumatic Stress Disorder",
@@ -61085,7 +63740,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -61116,6 +63772,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -61131,7 +63788,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -61162,6 +63820,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)",
@@ -61177,7 +63836,8 @@ var data = [
    "CountryWork": "Ireland",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -61208,6 +63868,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -61223,7 +63884,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Designer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -61254,6 +63916,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -61269,7 +63932,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -61300,6 +63964,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -61315,7 +63980,8 @@ var data = [
    "CountryWork": "Finland",
    "StateWork": "",
    "Position": "One-person shop|Designer|Front-end Developer|Support|Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -61346,6 +64012,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -61361,7 +64028,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -61392,6 +64060,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)",
@@ -61407,7 +64076,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -61438,6 +64108,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -61453,7 +64124,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -61484,6 +64156,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -61499,7 +64172,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -61530,6 +64204,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -61545,7 +64220,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -61576,6 +64252,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -61591,7 +64268,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -61622,6 +64300,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -61637,7 +64316,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -61668,6 +64348,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -61683,7 +64364,8 @@ var data = [
    "CountryWork": "Chile",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -61714,6 +64396,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -61729,7 +64412,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -61760,6 +64444,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -61775,7 +64460,8 @@ var data = [
    "CountryWork": "Chile",
    "StateWork": "",
    "Position": "Designer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -61806,6 +64492,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -61821,7 +64508,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer|Designer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -61852,6 +64540,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -61867,7 +64556,8 @@ var data = [
    "CountryWork": "Chile",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -61898,6 +64588,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -61913,7 +64604,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -61944,6 +64636,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -61959,7 +64652,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -61990,6 +64684,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Very open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -62005,7 +64700,8 @@ var data = [
    "CountryWork": "Guatemala",
    "StateWork": "",
    "Position": "Designer|Front-end Developer|Back-end Developer|Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -62036,6 +64732,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -62051,7 +64748,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Front-end Developer|Back-end Developer|Support",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -62082,6 +64780,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -62097,7 +64796,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Iowa",
    "Position": "Front-end Developer|Designer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -62128,6 +64828,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -62143,7 +64844,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -62174,6 +64876,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -62189,7 +64892,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -62220,6 +64924,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder|Addictive Disorder",
@@ -62235,7 +64940,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -62266,6 +64972,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -62281,7 +64988,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -62312,6 +65020,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -62327,7 +65036,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Executive Leadership|Supervisor/Team Lead|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -62358,6 +65068,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -62373,7 +65084,8 @@ var data = [
    "CountryWork": "Pakistan",
    "StateWork": "",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -62404,6 +65116,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -62419,7 +65132,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -62450,6 +65164,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -62465,7 +65180,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -62496,6 +65212,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Post-traumatic Stress Disorder",
@@ -62511,7 +65228,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -62542,6 +65260,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -62557,7 +65276,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Virginia",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -62588,6 +65308,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -62603,7 +65324,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -62634,6 +65356,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -62649,7 +65372,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Michigan",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -62680,6 +65404,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Psychotic Disorder (Schizophrenia, Schizoaffective, etc)|Obsessive-Compulsive Disorder|ADD (w/o Hyperactivity)",
@@ -62695,7 +65420,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "North Carolina",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -62726,6 +65452,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -62741,7 +65468,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Virginia",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -62772,6 +65500,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Eating Disorder (Anorexia, Bulimia, etc)|Attention Deficit Hyperactivity Disorder|Obsessive-Compulsive Disorder|Post-traumatic Stress Disorder|Stress Response Syndromes|Dissociative Disorder|Addictive Disorder",
@@ -62787,7 +65516,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -62818,6 +65548,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Addictive Disorder",
@@ -62833,7 +65564,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -62864,6 +65596,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -62879,7 +65612,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "District of Columbia",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -62910,6 +65644,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -62925,7 +65660,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "One-person shop|DevOps/SysAdmin",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -62956,6 +65692,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -62971,7 +65708,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Oregon",
    "Position": "DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -63002,6 +65740,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "N/A",
    "PastMental": "Maybe",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -63017,7 +65756,8 @@ var data = [
    "CountryWork": "Serbia",
    "StateWork": "",
    "Position": "One-person shop|Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead|Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -63048,6 +65788,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Addictive Disorder",
@@ -63063,7 +65804,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -63094,6 +65836,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -63109,7 +65852,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "District of Columbia",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -63140,6 +65884,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -63155,7 +65900,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -63186,6 +65932,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -63201,7 +65948,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -63232,6 +65980,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -63247,7 +65996,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Support|Back-end Developer|Front-end Developer|One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -63278,6 +66028,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -63293,7 +66044,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -63324,6 +66076,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -63339,7 +66092,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Executive Leadership",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -63370,6 +66124,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "Yes",
+   "NegResponse": "N/A",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -63385,7 +66140,8 @@ var data = [
    "CountryWork": "France",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -63416,6 +66172,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Not open at all",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Eating Disorder (Anorexia, Bulimia, etc)",
@@ -63431,7 +66188,8 @@ var data = [
    "CountryWork": "Ireland",
    "StateWork": "",
    "Position": "DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -63462,6 +66220,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder",
@@ -63477,7 +66236,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "District of Columbia",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -63508,6 +66268,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -63523,7 +66284,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -63554,6 +66316,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -63569,7 +66332,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Washington",
    "Position": "Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -63600,6 +66364,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -63615,7 +66380,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "One-person shop",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -63646,6 +66412,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -63661,7 +66428,8 @@ var data = [
    "CountryWork": "Estonia",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -63692,6 +66460,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -63707,7 +66476,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -63738,6 +66508,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -63753,7 +66524,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Missouri",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -63784,6 +66556,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -63799,7 +66572,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -63830,6 +66604,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -63845,7 +66620,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Nebraska",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -63876,6 +66652,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -63891,7 +66668,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -63922,6 +66700,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -63937,7 +66716,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Back-end Developer|Supervisor/Team Lead",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -63968,6 +66748,7 @@ var data = [
    "NegMental": "Yes, they do",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -63983,7 +66764,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64014,6 +66796,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -64029,7 +66812,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64060,6 +66844,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -64075,7 +66860,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64106,6 +66892,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -64121,7 +66908,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Virginia",
    "Position": "Other|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64152,6 +66940,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -64167,7 +66956,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64198,6 +66988,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -64213,7 +67004,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -64244,6 +67036,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -64259,7 +67052,8 @@ var data = [
    "CountryWork": "Brazil",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64290,6 +67084,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Obsessive-Compulsive Disorder",
@@ -64305,7 +67100,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64336,6 +67132,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)|Stress Response Syndromes",
@@ -64351,7 +67148,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64382,6 +67180,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -64397,7 +67196,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "California",
    "Position": "Other|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64428,6 +67228,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -64443,7 +67244,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Pennsylvania",
    "Position": "Dev Evangelist/Advocate",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64474,6 +67276,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -64489,7 +67292,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Massachusetts",
    "Position": "Supervisor/Team Lead|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64520,6 +67324,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder|Dissociative Disorder",
@@ -64535,7 +67340,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Idaho",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64566,6 +67372,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -64581,7 +67388,8 @@ var data = [
    "CountryWork": "India",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -64612,6 +67420,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -64627,7 +67436,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "One-person shop|Designer|Front-end Developer|Back-end Developer|Dev Evangelist/Advocate|Supervisor/Team Lead",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64658,6 +67468,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -64673,7 +67484,8 @@ var data = [
    "CountryWork": "Poland",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64704,6 +67516,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Substance Use Disorder|Addictive Disorder",
@@ -64719,7 +67532,8 @@ var data = [
    "CountryWork": "Ireland",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64750,6 +67564,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -64765,7 +67580,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Arizona",
    "Position": "Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -64796,6 +67612,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -64811,7 +67628,8 @@ var data = [
    "CountryWork": "Germany",
    "StateWork": "",
    "Position": "One-person shop",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64842,6 +67660,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "Yes",
    "WhichCondDiag": "Mood Disorder (Depression, Bipolar Disorder, etc)",
@@ -64857,7 +67676,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64888,6 +67708,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Personality Disorder (Borderline, Antisocial, Paranoid, etc)|Stress Response Syndromes",
@@ -64903,7 +67724,8 @@ var data = [
    "CountryWork": "Belgium",
    "StateWork": "",
    "Position": "Other|Supervisor/Team Lead|Dev Evangelist/Advocate",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64934,6 +67756,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Neutral",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Schizotypal Personality Disorder",
@@ -64949,7 +67772,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -64980,6 +67804,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -64995,7 +67820,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Colorado",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -65026,6 +67852,7 @@ var data = [
    "NegMental": "No, they do not",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Obsessive-Compulsive Disorder",
@@ -65041,7 +67868,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Texas",
    "Position": "Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -65072,6 +67900,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -65087,7 +67916,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "HR",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -65118,6 +67948,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Attention Deficit Hyperactivity Disorder",
@@ -65133,7 +67964,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Wisconsin",
    "Position": "Front-end Developer|Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -65164,6 +67996,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "No",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -65179,7 +68012,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Arizona",
    "Position": "Front-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -65210,6 +68044,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Post-traumatic Stress Disorder|Stress Response Syndromes|Autism spectrum disorder",
@@ -65225,7 +68060,8 @@ var data = [
    "CountryWork": "Netherlands",
    "StateWork": "",
    "Position": "Back-end Developer|DevOps/SysAdmin",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -65256,6 +68092,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -65271,7 +68108,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -65302,6 +68140,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "Yes",
+   "NegResponse": "No",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder",
@@ -65317,7 +68156,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Alabama",
    "Position": "Supervisor/Team Lead|Back-end Developer|Designer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -65348,6 +68188,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Neutral",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -65363,7 +68204,8 @@ var data = [
    "CountryWork": "United Kingdom",
    "StateWork": "",
    "Position": "Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead|Executive Leadership",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -65394,6 +68236,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -65409,7 +68252,8 @@ var data = [
    "CountryWork": "Estonia",
    "StateWork": "",
    "Position": "Front-end Developer|Back-end Developer|Supervisor/Team Lead",
-   "Remote": "Never"
+   "Remote": "Never",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -65440,6 +68284,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Very open",
    "FamHistory": "No",
+   "NegResponse": "Yes, I observed",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -65455,7 +68300,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Indiana",
    "Position": "Front-end Developer",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -65486,6 +68332,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Not applicable to me (I do not have a mental illness)",
    "FamHistory": "No",
+   "NegResponse": "No",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -65501,7 +68348,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -65532,6 +68380,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -65547,7 +68396,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Back-end Developer|Front-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -65578,6 +68428,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat not open",
    "FamHistory": "I don't know",
+   "NegResponse": "No",
    "PastMental": "Maybe",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -65593,7 +68444,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Supervisor/Team Lead|Front-end Developer|Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -65624,6 +68476,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Attention Deficit Hyperactivity Disorder",
@@ -65639,7 +68492,8 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -65670,6 +68524,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Very open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Obsessive-Compulsive Disorder",
@@ -65685,7 +68540,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Illinois",
    "Position": "Support",
-   "Remote": "Always"
+   "Remote": "Always",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -65716,6 +68572,7 @@ var data = [
    "NegMental": "Maybe",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -65731,7 +68588,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "New York",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 1,
@@ -65762,6 +68620,7 @@ var data = [
    "NegMental": "Yes, I think they would",
    "FamMental": "Somewhat not open",
    "FamHistory": "Yes",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "No",
    "CurMental": "No",
    "WhichCondDiag": "",
@@ -65777,7 +68636,8 @@ var data = [
    "CountryWork": "Afghanistan",
    "StateWork": "",
    "Position": "Support",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -65808,6 +68668,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I observed",
    "PastMental": "Yes",
    "CurMental": "Maybe",
    "WhichCondDiag": "",
@@ -65823,7 +68684,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Georgia",
    "Position": "Back-end Developer",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -65854,6 +68716,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "Yes",
+   "NegResponse": "Yes, I experienced",
    "PastMental": "Maybe",
    "CurMental": "Yes",
    "WhichCondDiag": "Anxiety Disorder (Generalized, Social, Phobia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Stress Response Syndromes",
@@ -65869,7 +68732,8 @@ var data = [
    "CountryWork": "United States of America",
    "StateWork": "Nebraska",
    "Position": "DevOps/SysAdmin",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  },
  {
    "SelfEmp": 0,
@@ -65900,6 +68764,7 @@ var data = [
    "NegMental": "No, I don't think they would",
    "FamMental": "Somewhat open",
    "FamHistory": "I don't know",
+   "NegResponse": "Maybe/Not sure",
    "PastMental": "Yes",
    "CurMental": "Yes",
    "WhichCondDiag": "Obsessive-Compulsive Disorder|Eating Disorder (Anorexia, Bulimia, etc)|Mood Disorder (Depression, Bipolar Disorder, etc)|Anxiety Disorder (Generalized, Social, Phobia, etc)",
@@ -65915,6 +68780,7 @@ var data = [
    "CountryWork": "Canada",
    "StateWork": "",
    "Position": "Other",
-   "Remote": "Sometimes"
+   "Remote": "Sometimes",
+   "FIELD46": ""
  }
 ]

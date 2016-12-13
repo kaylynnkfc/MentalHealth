@@ -53,8 +53,14 @@ body {
   float: left;
   margin-right: 2.5641%; }
 
-#leave {
+#response {
   width: 48.71795%;
+  float: right;
+  margin-right: 0; }
+
+#leave {
+  padding: 25px;
+  width: 100%;
   float: right;
   margin-right: 0; }
 

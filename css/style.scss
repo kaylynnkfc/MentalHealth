@@ -30,6 +30,10 @@ h1 {
 #productivity {
   @include span(4 of 8 last);
 }
+#response {
+  padding-top: 25px;
+  @include span(8 of 8 last);
+}
 
 
 // Company section
@@ -40,11 +44,11 @@ h1 {
   padding-top: 25px;
   @include span(4 of 8);
 }
-#response {
+#leave {
   padding-top: 25px;
   @include span(4 of 8 last);
 }
-#leave {
+#treatment {
   padding-top: 25px;
   @include span(8 of 8 last);
 }

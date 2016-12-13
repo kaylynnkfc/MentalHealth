@@ -10,10 +10,10 @@ function getData() {
   ];
 
   var benefits = [
-    {"x": "Yes", "total" : 0},
-    {"x" : "No", "total":  0},
-    {"x": "I don't know", "total" : 0},
-    {"x":"Not eligible for coverage / N/A", "total":0}
+    {"x": "Yes", "noTreatment" : 0, 'treatment' : 0},
+    {"x" : "No", "noTreatment" : 0, 'treatment' : 0},
+    {"x": "I don't know", "noTreatment" : 0, 'treatment' : 0},
+    {"x":"Not eligible for coverage / N/A", "noTreatment" : 0, 'treatment' : 0}
   ];
 
   var productivity = [
@@ -30,10 +30,10 @@ function getData() {
   ]
 
   var negResponse = [
-    {"x": "No", "total" : 0},
-    {"x": "Maybe\/Not sure", "total" : 0},
-    {"x": "Yes, I observed", "total" : 0},
     {"x": "Yes, I experienced", "total" : 0},
+    {"x": "Yes, I observed", "total" : 0},
+    {"x": "Maybe\/Not sure", "total" : 0},
+    {"x": "No", "total" : 0},
     {"x": "N/A", "total" : 0}
   ]
 
@@ -42,6 +42,7 @@ function getData() {
 
     var leaveVal = data[i]['MentalLeave'];
     var benefitsVal = data[i]['Benefits'];
+    var treatment = data[i]['Treatment'];
     var prodVal = data[i]['Prod'];
     var disorderVal = data[i]['CurMental'];
     var responseVal = data[i]['NegResponse'];
@@ -56,8 +57,11 @@ function getData() {
 
     if (benefitsVal != "") {
       for (var j = 0; j < benefits.length; j++) {
-        if (benefits[j]["x"] == benefitsVal) {
-          benefits[j]["total"]++;
+        if (benefits[j]["x"] == benefitsVal && treatment == 0) {
+          benefits[j]["noTreatment"]++;
+        }
+        if (benefits[j]["x"] == benefitsVal && treatment == 1) {
+          benefits[j]["treatment"]++;
         }
       }
     }

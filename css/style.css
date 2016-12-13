@@ -45,6 +45,12 @@ h1 {
   float: right;
   margin-right: 0; }
 
+#response {
+  padding-top: 25px;
+  width: 100%;
+  float: right;
+  margin-right: 0; }
+
 #companies {
   width: 100%;
   float: right;
@@ -56,13 +62,13 @@ h1 {
   float: left;
   margin-right: 2.5641%; }
 
-#response {
+#leave {
   padding-top: 25px;
   width: 48.71795%;
   float: right;
   margin-right: 0; }
 
-#leave {
+#treatment {
   padding-top: 25px;
   width: 100%;
   float: right;

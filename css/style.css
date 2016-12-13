@@ -15,7 +15,7 @@ body {
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 10px;
-  max-width: 65em;
+  max-width: 70em;
   margin-left: auto;
   margin-right: auto; }
   body:after {
@@ -29,6 +29,9 @@ body {
 
 h1 {
   font-size: 35px; }
+
+img {
+  width: 1000px; }
 
 #prevalence {
   width: 100%;
@@ -94,7 +97,12 @@ h1 {
   float: right;
   margin-right: 0; }
 
-#conclusion {
+#image {
+  width: 100%;
+  float: right;
+  margin-right: 0; }
+
+#conclusions {
   width: 100%;
   float: right;
   margin-right: 0; }

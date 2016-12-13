@@ -6,7 +6,7 @@ body {
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 10px;
-  @include container(65em);
+  @include container(70em);
 }
 
 
@@ -17,6 +17,9 @@ body {
 }
 h1 {
   font-size: 35px;
+}
+img {
+  width: 1000px;
 }
 
 
@@ -66,8 +69,12 @@ h1 {
 }
 #results {
   @include span (2 of 4 last);
+  // height: 500px;
 }
-#conclusion {
+#image {
+  @include span (4 of 4 last);
+}
+#conclusions {
   @include span (4 of 4 last);
 }
 

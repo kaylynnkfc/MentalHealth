@@ -79,9 +79,6 @@ function getData() {
     }
 
     if (responseVal != "") {
-      if (responseVal == "Maybe/Not sure") {
-        console.log(responseVal);
-      }
       for (var j = 0; j < negResponse.length; j++) {
         if (negResponse[j]["x"] == responseVal) {
           negResponse[j]["total"]++;

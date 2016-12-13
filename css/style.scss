@@ -4,48 +4,73 @@
 
 // Susy setup
 body {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
   @include container(65em);
 }
-
-#prevalence, #companies, #factors, #graphs, #introML {
-  @include span (1 of 1 last);
-}
-
-#references, #data {
-  @include span (2 of 4);
-}
-
-#acknowledgements, #results {
-  @include span (2 of 4 last);
-}
-
 
 
 // Assorted styling
 .info {
-  padding: 10px;
+  padding-left: 15px;
+  padding-right: 50px;
+}
+h1 {
+  font-size: 35px;
 }
 
+
 // Prevalence section
+#prevalence {
+  @include span (1 of 1 last);
+}
 #disorders {
   @include span (4 of 8);
 }
-
 #productivity {
   @include span(4 of 8 last);
 }
 
+
 // Company section
+#companies{
+  @include span (1 of 1 last);
+}
 #benefits {
   @include span(4 of 8);
 }
-
 #response {
   @include span(4 of 8 last);
 }
-
 #leave {
-  padding: 25px;
+  padding-top: 25px;
   @include span(8 of 8 last);
 }
+
+
 // Results section
+#factors {
+  @include span (1 of 1 last);
+}
+#introML {
+  @include span (1 of 1 last);
+}
+#data {
+  @include span (2 of 4);
+}
+#results {
+  @include span (2 of 4 last);
+}
+#conclusion {
+  @include span (1 of 1 last);
+}
+
+
+//Footer
+#references {
+  @include span (2 of 4);
+}
+#acknowledgements {
+  @include span (2 of 4 last);
+}

@@ -12,6 +12,9 @@ hr {
   margin: .5em 0; }
 
 body {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
   max-width: 65em;
   margin-left: auto;
   margin-right: auto; }
@@ -20,23 +23,17 @@ body {
     display: block;
     clear: both; }
 
-#prevalence, #companies, #factors, #graphs, #introML {
+.info {
+  padding-left: 15px;
+  padding-right: 50px; }
+
+h1 {
+  font-size: 35px; }
+
+#prevalence {
   width: 100%;
   float: right;
   margin-right: 0; }
-
-#references, #data {
-  width: 47.36842%;
-  float: left;
-  margin-right: 5.26316%; }
-
-#acknowledgements, #results {
-  width: 47.36842%;
-  float: right;
-  margin-right: 0; }
-
-.info {
-  padding: 10px; }
 
 #disorders {
   width: 48.71795%;
@@ -45,6 +42,11 @@ body {
 
 #productivity {
   width: 48.71795%;
+  float: right;
+  margin-right: 0; }
+
+#companies {
+  width: 100%;
   float: right;
   margin-right: 0; }
 
@@ -59,8 +61,43 @@ body {
   margin-right: 0; }
 
 #leave {
-  padding: 25px;
+  padding-top: 25px;
   width: 100%;
+  float: right;
+  margin-right: 0; }
+
+#factors {
+  width: 100%;
+  float: right;
+  margin-right: 0; }
+
+#introML {
+  width: 100%;
+  float: right;
+  margin-right: 0; }
+
+#data {
+  width: 47.36842%;
+  float: left;
+  margin-right: 5.26316%; }
+
+#results {
+  width: 47.36842%;
+  float: right;
+  margin-right: 0; }
+
+#conclusion {
+  width: 100%;
+  float: right;
+  margin-right: 0; }
+
+#references {
+  width: 47.36842%;
+  float: left;
+  margin-right: 5.26316%; }
+
+#acknowledgements {
+  width: 47.36842%;
   float: right;
   margin-right: 0; }
 

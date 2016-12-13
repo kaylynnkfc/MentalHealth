@@ -38,9 +38,11 @@ h1 {
   @include span (1 of 1 last);
 }
 #benefits {
+  padding-top: 25px;
   @include span(4 of 8);
 }
 #response {
+  padding-top: 25px;
   @include span(4 of 8 last);
 }
 #leave {

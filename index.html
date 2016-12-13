@@ -29,7 +29,7 @@
       <h2>Prevalence of Mental Health Disorders in Tech</h2>
       <div class="info">
         <ul>
-          <li>40% of survey respondants have a mental disorder</li>
+          <li>40% of survey respondents have a mental disorder</li>
           <li>71% who responded said that their mental disorder affects their productivity</li>
         </ul>
         <p>
@@ -47,6 +47,11 @@
     <div id="companies">
       <h2>Role of Tech Companies in Mental Health Issues</h2>
       <div class="info">
+        <ul>
+          <li>Only 46% of respondents know that they have coverage for mental health</li>
+          <li></li>
+          <li></li>
+        </ul>
         <p>
           Companies can play either a positive or a negative role in the mental
           health of their employees. For example, by providing insurance that
@@ -72,20 +77,50 @@
       <h2>Best Ways for Companies to Help</h2>
       <div class="info">
         <div id="introML">
-          <h3>Intro</h3>
-          <p>Introduce the problem here. Include any relevant details about the domain.</p>
+          <h3>Introduction</h3>
+          <p>
+            This dataset contains information on the respondent's mental health and
+             the attitudes of their company to mental health issues. Using this
+             information, my goal is to determine what a company can do in order to
+             encourage employees to get treatment.
+             <br>
+             To do this, I built a classification tree with "Treatment" as a response,
+             and figured out which factors best determined if a person with a mental
+             health disorder was receiving treatment.
+          </p>
+        </div>
+        <div id="data">
+          <h3>Data & Methods</h3>
+          <p>
+            I used Python and the sklearn library to clean and analyze the data.
+            First, I read in the CSV file I'd gotten from Kaggle, then I cleaned up the
+            data by removing unnecessary rows and changing the types of the variables from
+            object to category. Since my goal is to predict when people with mental
+            health disorders get treatment, I also removed all the rows where the
+            respondent does not have a mental disorder.
+            <br>
+            Next, I removed the columns where over 400 people did not respond to the
+            question. Then, I removed any rows left with NaN values. At this point,
+            I have a data set with 381 responses, all with a mental health disorder,
+            and no NaN values.
+            <br>
+            Then I turned the categorical variables into binary variables using one-hot
+            encoding because Python's decision tree method only takes numerical values.
+            One-hot encoding does not impose ordering on the data.
+            <br>
+            Lastly, I created the decision tree with a max depth of 6 and displayed the
+            results.
+          </p>
         </div>
         <div id="results">
           <h3>Results</h3>
           <p>What did you discover? Definitely the most important section! Be sure to clearly label any figures, etc.</p>
         </div>
-        <div id="data">
-          <h3>Data & Methods</h3>
-          <p>Describe the data you used, and how you modeled it here</p>
-        </div>
         <div id="conclusions">
           <h3>Conclusions & Future Work</h3>
-          <p>Sum up the project, and talk about what you’d like to do if you had more time to continue working on this.</p>
+          <p>
+            Sum up the project, and talk about what you’d like to do if you had more time to continue working on this.
+          </p>
         </div>
       </div>
       <br><hr>

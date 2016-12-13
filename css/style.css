@@ -2,7 +2,7 @@ html {
   color: #545454;
   font-family: Helvetica;
   font-size: 1em;
-  line-height: 1.4; }
+  line-height: 1.5; }
 
 hr {
   display: block;
@@ -51,11 +51,13 @@ h1 {
   margin-right: 0; }
 
 #benefits {
+  padding-top: 25px;
   width: 48.71795%;
   float: left;
   margin-right: 2.5641%; }
 
 #response {
+  padding-top: 25px;
   width: 48.71795%;
   float: right;
   margin-right: 0; }

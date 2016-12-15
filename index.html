@@ -81,7 +81,7 @@
     <div id="factors">
       <h2>Best Ways for Companies to Help</h2>
       <div class="info">
-        <div id="introML">
+        <div id="data">
           <h3>Introduction</h3>
           <p>
             This dataset contains information on the respondent's mental health and
@@ -93,8 +93,6 @@
              and figured out which factors best determined if a person with a mental
              health disorder was receiving treatment.
           </p>
-        </div>
-        <div id="data">
           <h3>Data & Methods</h3>
           <p>
             I used Python and the sklearn library to clean and analyze the data.
@@ -120,21 +118,57 @@
         <div id="results">
           <h3>Results</h3>
           <p>
-            What did you discover? Definitely the most important section! Be sure to clearly label any figures, etc.
+            However, the six level tree didn't easily answer my question.
+            I wanted the most relevant factors, and with six levels the tree
+            was hard to interpret. So I modified the code and created a tree
+            with only three levels, to better isolate the main factors.
             <br>
-            Results should be read as: ['No' 'Yes']
+            The resulting tree is displayed below. Click to enlarge.
+            <a href="images/smallGraph.svg">
+              <img src="images/smallGraph.svg" alt="" id="image1">
+            </a>
+            The most determinative factor seems to be whether or not the
+            individual is diagnosed, which makes sense. Of those not diagnosed,
+            only 14% are receiving treatment, even though all said that they
+            had a mental disorder.
+            <br>
+            Beyond that, the most important factors are whether the individual has
+            resources to learn about mental health concerns and options for seeking
+            help, and whether the individual believes that their coworkers would
+            view them differently because of their mental health issues.
+            <br>
+
           </p>
         </div>
-        <div id="image">
-          <a href="images/graph.svg">
-            <img src="images/graph.svg" alt="">
-          </a>
+        <a href="images/largeGraph.svg">
+          <img src="images/largeGraph.svg" alt="" id="image2">
+        </a>
           <br>
-        </div>
         <div id="conclusions">
           <h3>Conclusions & Future Work</h3>
           <p>
-            Sum up the project, and talk about what you’d like to do if you had more time to continue working on this.
+            Besides a diagnosis, the factors that are most important are having
+            resources, and having supportive coworkers. For companies, the take
+            aways from this should be to encourage employees not to judge others
+            for any mental health disorders, and to provide resources in the form
+            of both insurance and information.
+            <br>
+            If I had more time, I would definitely try the same analysis in R.
+            The function that creates a decision tree in Python does not accept
+            categorical variables, so the results were harder to interpret than
+            I wanted.
+            <br>
+            I also think that the results would be more meaningful if there was a
+            better way to deal with the fact that many questions had about five
+            possible responses. I think this muddled the tree and made it harder
+            to interpret.
+            <br>
+            When the data was split into a training and a test set, a six layer
+            tree had a 93% accuracy rate for determining whether an individual
+            received treatment. This indicates that there are universal factors
+            that can help encourage good mental health practices. Hopefully the
+            survey by OSMI and research done with the resulting data helps to
+            inform companies about good mental health policies.
           </p>
           <hr>
         </div>

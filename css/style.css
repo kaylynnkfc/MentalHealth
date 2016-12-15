@@ -30,7 +30,11 @@ body {
 h1 {
   font-size: 35px; }
 
-img {
+#image1 {
+  padding: 15px;
+  width: 500px; }
+
+#image2 {
   width: 1000px; }
 
 #prevalence {

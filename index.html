@@ -35,12 +35,11 @@
           <li>71% who responded said that their mental disorder affects their productivity</li>
         </ul>
         <p>
-          575 people out of the 1433 who answered this question say they
-          currently having a mental disorder. This is 40% of the survey population.
-          All of these people are employed, most at technology companies. Of the
-          287 people who answered the next question, 204 say that their mental
+          575 people out of the 1433 respondents say they
+          currently have a mental disorder. This is 40% of the survey population.
+          Of the 287 people who answered the next question, 71% say that their mental
           disorder affects their productivity. Obviously, this is something that
-          companies should address, for both altruistic reasons and practical ones.
+          companies should address, for both altruistic and business reasons.
         </p>
         <br>
     </div>
@@ -55,22 +54,21 @@
           <li>Only 46% of respondents know that they have coverage for mental health</li>
           <li>54% of respondents have either seen or experienced a negative response
               to mental health issues </li>
-          <!-- <li></li> -->
         </ul>
         <p>
           Companies can play either a positive or a negative role in the mental
           health of their employees. For example, by providing insurance that
-          covers mental health issues as well as physical health issues, companies
+          covers mental health concerns as well as physical health issues, companies
           can encourage employees to get treatment if necessary.
           <br>
           On the other hand, companies that discourage taking days off for mental
-          health issues, discourage communication, and don't provide mental
+          health, discourage communication, and don't provide mental
           health benefits can have a detrimental affect on the mental health of
           their employees.
           <br>
           As you can see from the graphs, under half of survey respondents knew
           that their insurance covered mental health benefits, and responses were
-          very mixed regarding whether respondents felt that they could take
+          very mixed regarding whether employees felt that they could take
           time off without repercussions.
         </p>
       </div>
@@ -82,7 +80,7 @@
       <h2>Best Ways for Companies to Help</h2>
       <div class="info">
         <div id="data">
-          <h3>Introduction</h3>
+          <h3>Overview</h3>
           <p>
             This dataset contains information on the respondent's mental health and
              the attitudes of their company to mental health issues. Using this
@@ -118,10 +116,10 @@
         <div id="results">
           <h3>Results</h3>
           <p>
-            However, the six level tree didn't easily answer my question.
-            I wanted the most relevant factors, and with six levels the tree
-            was hard to interpret. So I modified the code and created a tree
-            with only three levels, to better isolate the main factors.
+            However, the six level tree didn't isolate what the most important
+            factors were in encouraging someone to get treatment.
+            So I modified the code and created a tree
+            with only three levels, to better identify the main factors.
             <br>
             The resulting tree is displayed below. Click to enlarge.
             <a href="images/smallGraph.svg">
@@ -137,7 +135,11 @@
             help, and whether the individual believes that their coworkers would
             view them differently because of their mental health issues.
             <br>
-
+            The three level tree correctly classified 86.7% of responses and, when
+            split into a training set and a test set, could predict "Treatment" with
+            91% accuracy.
+            The six level tree correctly classified 91% of responses and predicted
+            "Treatment" with 93% accuracy. 
           </p>
         </div>
         <a href="images/largeGraph.svg">

@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/c3.min.css">
     <link rel="stylesheet" href="css/style.css">
 
-    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="shortcut icon" href="images/favicon.ico">
 
   </head>
   <body>
@@ -91,6 +91,7 @@
              and figured out which factors best determined if a person with a mental
              health disorder was receiving treatment.
           </p>
+          <br><br>
           <h3>Data & Methods</h3>
           <p>
             I used Python and the sklearn library to clean and analyze the data.
@@ -109,19 +110,26 @@
             encoding because Python's decision tree method only takes numerical values.
             One-hot encoding does not impose ordering on the data.
             <br>
-            Lastly, I created the decision tree with a max depth of 6 and displayed the
-            results.
+            Lastly, I created decision trees with 1-6 levels, compared the accuracy
+            and displayed the results.
           </p>
         </div>
         <div id="results">
           <h3>Results</h3>
           <p>
-            However, the six level tree didn't isolate what the most important
-            factors were in encouraging someone to get treatment.
-            So I modified the code and created a tree
-            with only three levels, to better identify the main factors.
+            The best model was a three level tree. It correctly classified the
+            most data without overfitting.
             <br>
-            The resulting tree is displayed below. Click to enlarge.
+            When the data was split into a training and a test set, a six layer
+            tree correctly classified 93% of observations, and had a 80% accuracy
+            rate for determining whether an individual received treatment. A three
+            level tree correctly classified only 91% of observations, but had an
+            84% success rate on the test data. This shows that a six level tree
+            overfits the data, and the three level tree is a better model.
+            The sample size is only about 350 observations, however, so both
+            models would improve with more data.
+            <br>
+            The three level tree is displayed below. Click to enlarge.
             <a href="images/smallGraph.svg">
               <img src="images/smallGraph.svg" alt="" id="image1">
             </a>
@@ -134,18 +142,8 @@
             resources to learn about mental health concerns and options for seeking
             help, and whether the individual believes that their coworkers would
             view them differently because of their mental health issues.
-            <br>
-            The three level tree correctly classified 86.7% of responses and, when
-            split into a training set and a test set, could predict "Treatment" with
-            91% accuracy.
-            The six level tree correctly classified 91% of responses and predicted
-            "Treatment" with 93% accuracy. 
           </p>
         </div>
-        <a href="images/largeGraph.svg">
-          <img src="images/largeGraph.svg" alt="" id="image2">
-        </a>
-          <br>
         <div id="conclusions">
           <h3>Conclusions & Future Work</h3>
           <p>
@@ -154,6 +152,12 @@
             aways from this should be to encourage employees not to judge others
             for any mental health disorders, and to provide resources in the form
             of both insurance and information.
+            <br>
+            The fact that the model can be relatively predictive, even with a low
+            sample size, indicates that there are universal factors
+            that can help encourage good mental health practices. Hopefully the
+            survey by OSMI and research done with the resulting data helps to
+            inform companies about good mental health policies.
             <br>
             If I had more time, I would definitely try the same analysis in R.
             The function that creates a decision tree in Python does not accept
@@ -165,12 +169,6 @@
             possible responses. I think this muddled the tree and made it harder
             to interpret.
             <br>
-            When the data was split into a training and a test set, a six layer
-            tree had a 93% accuracy rate for determining whether an individual
-            received treatment. This indicates that there are universal factors
-            that can help encourage good mental health practices. Hopefully the
-            survey by OSMI and research done with the resulting data helps to
-            inform companies about good mental health policies.
           </p>
           <hr>
         </div>

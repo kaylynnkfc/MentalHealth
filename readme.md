@@ -15,7 +15,7 @@ I used Python and sklearn to build a decision tree with "Treatment" as the respo
 variable in order to determine the factors that lead a person with a mental health
 disorder to get treatment.
 
-![tree](/images/smallGraph.svg)
+![tree](/images/smallGraph.jpg)
 
 ## Data
 

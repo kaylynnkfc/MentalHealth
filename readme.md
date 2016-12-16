@@ -4,7 +4,7 @@ This is the final project for SDS 136 and 293. It is a visualization project fol
 
 Available here: https://silentttone.github.io/MentalHealth/
 
-For more information on each section, see the writeups in /Writeups.
+For more information on each section, see the writeups in /writeups.
 
 ![demo](/images/demo.gif)
 

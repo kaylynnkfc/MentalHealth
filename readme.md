@@ -4,8 +4,6 @@ This is the final project for SDS 136 and 293. It is a visualization project fol
 
 Available here: https://silentttone.github.io/MentalHealth/
 
-Note: Project will not be finalized until Dec. 14th.
-
 ![demo](/images/demo.gif)
 
 ## Analysis
@@ -17,7 +15,7 @@ I used Python and sklearn to build a decision tree with "Treatment" as the respo
 variable in order to determine the factors that lead a person with a mental health
 disorder to get treatment.
 
-![chart](/images/smallGraph.svg)
+![tree](/images/smallGraph.svg)
 
 ## Data
 
